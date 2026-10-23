@@ -1,0 +1,48 @@
+# Every Monday: prose-lint.py on the README and llms.txt of every MaukTenieb repo; the result goes to prose/report.md.
+name: prose
+
+on:
+  schedule:
+    - cron: "37 7 * * 1"   # Monday, 7:37 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  prose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read and check
+        run: |
+          mkdir -p /tmp/p
+          for r in insertkoin 3615 katabase Photofauna mauktenieb.github.io MaukTenieb curators method detour reporhogo korhotube Korhoname faunator torview; do
+            for f in README.md llms.txt; do
+              curl -fsSL "https://raw.githubusercontent.com/MaukTenieb/$r/main/$f" -o "/tmp/p/$r--$f" || rm -f "/tmp/p/$r--$f"
+            done
+          done
+          {
+            echo "# Prose report, $(date -u +%F)"
+            echo
+            echo "| File | Places to reread |"
+            echo "|---|---|"
+            for f in /tmp/p/*; do
+              n=$(python3 -I prose/prose-lint.py "$f" | tail -n1 | grep -o '^[0-9]*')
+              echo "| $(basename "$f" | sed 's/--/\//') | ${n:-0} |"
+            done
+            echo
+            echo "## Details"
+            echo
+            echo '```'
+            for f in /tmp/p/*; do python3 -I prose/prose-lint.py "$f" | sed "s#/tmp/p/##; s#--#/#" | grep -v "place(s) to reread"; done
+            echo '```'
+          } > prose/report.md
+      - name: Commit
+        run: |
+          git config user.name "Mauk Tenieb"
+          git config user.email "mauktenieb@gmail.com"
+          git add prose/report.md
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "prose: report of $(date -u +%F)"
+          git push
