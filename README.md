@@ -26,7 +26,7 @@ Repo [insertkoin](https://github.com/MaukTenieb/insertkoin), site https://maukte
 
 ## 3. Nostr
 
-The 3615 and the arcade use the open Nostr network as their only back end. Library: nostr-tools (MIT), served by the site. Relays: relay.damus.io, nos.lol, relay.primal.net, nostr.mom. Each browser keeps one key, `vdx.nostr.sk`, shared by the 3615, the palmarès, the Hall of Kave and Korhogo Kuration.
+The 3615 and the arcade use the open Nostr network as their only back end. Library: nostr-tools (public domain, Unlicense), served by the site. Relays: relay.damus.io, nos.lol, relay.primal.net, nostr.mom. Each browser keeps one key, `vdx.nostr.sk`, shared by the 3615, the palmarès, the Hall of Kave and Korhogo Kuration.
 
 | Use | Kind | Tag `d` | Content |
 |---|---|---|---|
