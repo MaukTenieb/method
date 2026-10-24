@@ -88,7 +88,7 @@ I'd like — this is personal — anyone passing through the ecosystem of that f
 
 — Your labels already hold a chemical formula, C7H5N3O6, trinitrotoluene, and a concept from the Kabbalah, the Tsimtsum. Is it the same gesture as the one you expect from Delboy?
 
-— I expect nothing from Delboy, who is a scholar. And who needs everything except me — fortunately. Chemistry? Ah, the formulation: its idea. The fine-tuning. The explosive compound.
+— I expect nothing from Delboy, who is a very literate man. And who needs everything except me — fortunately. Chemistry? Ah, the formulation: its idea. The fine-tuning. The explosive compound.
 
 — And the Tsimtsum, the withdrawal by which, in Isaac Luria's Kabbalah, the infinite contracts to make room for the world: what does Korhogo take from it?
 
@@ -112,7 +112,7 @@ I'd like — this is personal — anyone passing through the ecosystem of that f
 
 — Reconstitution-golem: the golem of Prague, a clay figure brought to life by a written name, does it serve as a model for your way of working, a site revived by writing and the machine?
 
-— The golem transfers an energy, a principle, and moves things about clumsily, right? Here it's the same (a technical golem), but better. Why? By decree; sometimes you have to decree. In art, that's easy. Performative. Or rather: millions of years of efforts and of tools that change you (individuality, fruit of the deposits of culture and politics, the collective thing, transmission and all that), we come and condense them here. Make the most of them. Saturate the thing with what has been acquired. Like a Mercury that catalyses itself in matter — and saturates it... Matter conscious of time (of the elders, through deposits) who have worked the intimacy that says I.
+— The golem transfers an energy, a principle, and moves things about clumsily, right? Here it's the same (a technical golem), but better. Why? By decree; sometimes you have to decree. In art, that's easy. Performative. Or rather: thousands of years of efforts and of tools that change you (individuality, fruit of the deposits of culture and politics, the collective thing, transmission and all that), we come and condense them here. Make the most of them. Saturate the thing with what has been acquired. Like a Mercury that catalyses itself in matter — and saturates it... Matter conscious of time (of the elders, through deposits) who have worked the intimacy that says I.
 
 To dive in, understand or carry on: [korhogo.substack.com](https://korhogo.substack.com)
 
