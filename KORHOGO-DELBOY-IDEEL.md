@@ -54,7 +54,7 @@ Je voudrais, ça m'est personnel, que quiconque passant par l'écosystème de ce
 
 — Reconstitution-golem : le golem de Prague, figure d'argile qu'un nom écrit anime, sert-il de modèle à ta façon de faire, un site ranimé par l'écrit et la machine ?
 
-— Le golem transfère une énergie, un principe, et déplace mal les choses hein ? Ici c'est pareil (golem technique), mais en mieux. Pourquoi ? Par décret ; faut décréter parfois. En art, c'est facile. Performatif. Ou plutôt : des millions d'années d'efforts et d'outils qui vous modifient (l'individualité, fruit des dépôts de culture et de politique, la chose collective, la transmission et tout), on vient les condenser ici. En profiter. Saturer la chose d'acquis. Comme un Mercure qui se catalyse dans la matière — et la sature... Matière consciente du temps (des aînés, par dépôts) qui ont travaillé l'intimité qui dit Je.
+— Le golem transfère une énergie, un principe, et déplace mal les choses hein ? Ici c'est pareil (golem technique), mais en mieux. Pourquoi ? Par décret ; faut décréter parfois. En art, c'est facile. Performatif. Ou plutôt : des milliers d'années d'efforts et d'outils qui vous modifient (l'individualité, fruit des dépôts de culture et de politique, la chose collective, la transmission et tout), on vient les condenser ici. En profiter. Saturer la chose d'acquis. Comme un Mercure qui se catalyse dans la matière — et la sature... Matière consciente du temps (des aînés, par dépôts) qui ont travaillé l'intimité qui dit Je.
 
 Pour plonger, comprendre ou prolonger : [korhogo.substack.com](https://korhogo.substack.com)
 
