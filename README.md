@@ -1,6 +1,6 @@
 # Method
 
-How Mauk Tenieb builds Insert Koin and the repos around it: hosting, code, Nostr, the watches, images, Tor, the tricks of the trade, the prose rules. For a reader, or for an AI assistant run by a person. French below.
+How Mauk Tenieb builds Insert Koin and the repos around it: hosting, code, Nostr, the watches, images, Tor, the tricks of the trade and their [recipes](recipes/README.md), the prose rules. For a reader, or for an AI assistant run by a person. French below.
 
 Credit for any reuse: Mauk Tenieb & Korhogo. Code under MIT, this guide under CC BY 4.0, Korhogo material reserved: [LICENSE](LICENSE).
 
@@ -46,7 +46,7 @@ Kind 30078 is addressable: a relay keeps the last version per key and per `d`. A
 
 - [Curators](https://github.com/MaukTenieb/curators): every Monday, Claude Code runs on GitHub Actions with a written prompt, reads eight curators' public sources, adds their picks, and two Python programs rank the artists and press VHS cassettes for Insert Koin.
 - Public data: the same facts on YouTube, Bandcamp, MusicBrainz, the Internet Archive, Discogs, Wikidata and the sites. Method: [METHOD.md](METHOD.md).
-- [Reporhogo](https://github.com/MaukTenieb/reporhogo) searches 41 code forges; [Korhoname](https://github.com/MaukTenieb/Korhoname) checks a name on Discogs, MusicBrainz, trademark registers and known works; [KorhoTube](https://github.com/MaukTenieb/korhotube) lists a channel's videos as JSON. Each one takes a request through a file pushed to `main` (`queue.txt`) and writes the answer to a `result` branch.
+- [Reporhogo](https://github.com/MaukTenieb/reporhogo) searches 41 code forges, and its tool [Captures](https://github.com/MaukTenieb/reporhogo/tree/main/captures) eight web archives; [Korhoname](https://github.com/MaukTenieb/Korhoname) checks a name on Discogs, MusicBrainz, trademark registers and known works; [KorhoTube](https://github.com/MaukTenieb/korhotube) lists a channel's videos as JSON. Each one takes a request through a file pushed to `main` (`queue.txt`) and writes the answer to a `result` branch.
 - Coherence: every Monday, the workflow `coherence` reads every public MaukTenieb repo and lists, repo by repo, a missing rights line, names retired by the names policy, links to the Medium account, prose to reread and dead links. Report: [coherence/report.md](coherence/report.md); program: [coherence/check.py](coherence/check.py).
 
 ## 5. Images
@@ -58,6 +58,8 @@ Portraits come as sheets of eight. [Detour](https://github.com/MaukTenieb/detour
 [FaunaTor](https://github.com/MaukTenieb/faunator) runs two Tor clients compiled to WebAssembly (webtor-rs, MIT), over Snowflake. A workflow fetches the Tor consensus twice a day and publishes it on the site, so the page reads it from the same origin.
 
 ## 7. Tricks of the trade
+
+The full collection, 76 recipes by domain, each with its obstacle, its technique and its code: [recipes/](recipes/README.md).
 
 - A game closed in a function: a local copy of the page gets a hook (`window.__k = {…}`) before the end of the function; a local server (`python3 -m http.server`) and Playwright drive it. The copy stays out of the repo.
 - YouTube offline: a fake `window.YT` records `cueVideoById`, `loadVideoById` and `stopVideo`.
@@ -114,6 +116,7 @@ Le 3615 et l'arcade se servent du réseau ouvert Nostr comme seul serveur (table
 
 - [Curators](https://github.com/MaukTenieb/curators) : chaque lundi, Claude Code tourne dans GitHub Actions avec une consigne écrite, lit les sources de huit curateurs, et deux programmes Python classent les artistes et pressent les cassettes VHS d'Insert Koin.
 - Données publiques : mêmes faits sur toutes les plateformes ; méthode : [METHOD.md](METHOD.md).
+- Reporhogo cherche aussi dans huit archives du web ([Captures](https://github.com/MaukTenieb/reporhogo/tree/main/captures)).
 - Reporhogo, Korhoname, KorhoTube : une demande par fichier déposé sur `main` (`queue.txt`), la réponse sur une branche `result`.
 - Cohérence : chaque lundi, le workflow `coherence` lit chaque dépôt public de MaukTenieb et relève, dépôt par dépôt, une ligne de droits absente, les noms retirés par la politique des noms, les liens vers le compte Medium, la prose à relire et les liens morts. Rapport : [coherence/report.md](coherence/report.md) ; programme : [coherence/check.py](coherence/check.py).
 
@@ -126,6 +129,8 @@ Planches de huit portraits ; [Detour](https://github.com/MaukTenieb/detour) les 
 [FaunaTor](https://github.com/MaukTenieb/faunator) : deux clients Tor en WebAssembly (webtor-rs, MIT) par Snowflake ; consensus Tor publié deux fois par jour sur le site.
 
 ## 7. Tours de main
+
+Le recueil complet, 76 recettes par domaine, chacune avec son obstacle, sa technique et son code : [recipes/](recipes/README.md).
 
 Crochet `window.__k` dans une copie locale pour tester un jeu fermé dans une fonction ; faux `window.YT` pour YouTube hors réseau ; `measureText` pour les calligrammes ; Playwright dans GitHub Actions pour les plateformes fermées aux scripts ; faux `WebSocket` pour une routine Nostr hors réseau ; les forges de code avant tout analyseur ou formulaire.
 
