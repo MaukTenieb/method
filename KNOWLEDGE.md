@@ -16,11 +16,12 @@ Everything learned while building Insert Koin and the repositories around it, by
 
 ## The loop
 
-1. The owner sets a rule or a goal; a session does the work in the repositories and checks it on the public page.
+1. The owner sets a rule or a goal; a session marks the task "in progress" in the work queue, does the work in the repositories, checks each public text with `prose/changed.sh` before the push, and checks the result on the public page.
 2. Sunday, 23:41 (Paris): the task "Archiviste Korhogo" files the week's exchanges in the private archive: decisions, rules, techniques, tools, deliveries.
 3. Monday morning: the workflows `coherence` (6:23 UTC) and `prose` (7:37 UTC) check every public repository.
-4. Monday, 9:47 (Paris): the task "Entretien de l'écosystème Korhogo" corrects what the checks found, turns the week's techniques into recipes and methods here, and updates the relay and the work queue.
-5. The next session reads the relay, the rules and this base, and starts from there.
+4. Monday, 9:47 (Paris): the task "Entretien de l'écosystème Korhogo" corrects what the checks found, turns the week's techniques into recipes and methods here, and updates the relay and the work queue, with a health report: runs, failures, late tasks.
+5. First of the month, 22:17 (Paris): the task "Index des acquis Korhogo" indexes the private archive. The archive stays whole; its summary cites the source of each rule, so a session reads the summary and opens the sources.
+6. The next session reads the relay, the rules and this base, and starts from there.
 
 ## Kinds
 
@@ -67,11 +68,12 @@ Tout ce que nous apprenons en construisant Insert Koin et les dépôts qui l'ent
 
 ## La boucle
 
-1. Le propriétaire fixe une règle ou un but ; une séance fait le travail dans les dépôts et le vérifie sur la page publique.
+1. Le propriétaire fixe une règle ou un but ; une séance marque la tâche « en cours » dans la file, fait le travail dans les dépôts, relit chaque texte public par `prose/changed.sh` avant l'envoi, et vérifie le résultat sur la page publique.
 2. Dimanche, 23 h 41 : la tâche « Archiviste Korhogo » range les échanges de la semaine dans l'archive privée.
 3. Lundi matin : les workflows `coherence` et `prose` contrôlent chaque dépôt public.
-4. Lundi, 9 h 47 : la tâche « Entretien de l'écosystème Korhogo » corrige, change les techniques de la semaine en recettes et méthodes, met à jour le relais et la file de travail.
-5. La séance suivante lit le relais, les règles et cette base, et repart de là.
+4. Lundi, 9 h 47 : la tâche « Entretien de l'écosystème Korhogo » corrige, change les techniques de la semaine en recettes et méthodes, met à jour le relais et la file de travail, avec un bilan de santé : runs, échecs, tâches en retard.
+5. Le 1er du mois, 22 h 17 : la tâche « Index des acquis Korhogo » indexe l'archive privée. L'archive reste entière ; son résumé cite la source de chaque règle : une séance lit le résumé, puis ouvre les sources.
+6. La séance suivante lit le relais, les règles et cette base, et repart de là.
 
 Méthodes : [Reconstituer un site depuis les archives du web](methods/reconstitute-a-website.md) ; [Remettre en ligne un site disparu](methods/recover-a-lost-website.md). Archives : [74 archives du web](archives/README.md).
 
