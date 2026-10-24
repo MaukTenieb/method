@@ -4,6 +4,8 @@ How Mauk Tenieb builds Insert Koin and the repos around it: hosting, code, Nostr
 
 Credit for any reuse: Mauk Tenieb & Korhogo. Code under MIT, this guide under CC BY 4.0, Korhogo material reserved: [LICENSE](LICENSE).
 
+Everything we know, by kind (principles, map, methods, recipes, rules, checks): [KNOWLEDGE.md](KNOWLEDGE.md).
+
 Every repo and service, what it reads and what it feeds, and the week of the routines: [MAP.md](MAP.md).
 
 ## 1. Principles
@@ -87,6 +89,8 @@ The code of Insert Koin and of these repos comes from an AI assistant, under the
 Comment Mauk Tenieb fabrique Insert Koin et les dépôts qui l'entourent : hébergement, code, Nostr, veilles, images, Tor, tours de main, règles de prose. Pour un lecteur, ou pour un assistant d'IA piloté par une personne.
 
 Mention de toute reprise : Mauk Tenieb & Korhogo. Code sous MIT, ce guide sous CC BY 4.0, matériel Korhogo réservé : [LICENSE](LICENSE).
+
+Tout ce que nous savons, par nature (principes, carte, méthodes, recettes, règles, contrôles) : [KNOWLEDGE.md](KNOWLEDGE.md).
 
 Chaque dépôt et service, ce qu'il lit, ce qu'il alimente, et la semaine des routines : [MAP.md](MAP.md).
 
