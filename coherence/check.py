@@ -76,7 +76,8 @@ def main(work):
                     hits = [l for l in res.stdout.splitlines() if l.strip() and not l.startswith(' ')]
                     if hits: rep['prose'].append('%s : %d passages à relire' % (rel, len(hits)))
         for u in sorted(set(LINK.findall(rt)))[:60]:
-            u = u.rstrip('.,;:')
+            u = u.rstrip('.,;:*_')
+            if '\u2026' in u or '.' not in u.split('/')[2] or u.endswith('github.io/k/'): continue  # placeholders, the bare short-link prefix
             s = alive(u)
             if s == 'error' or (isinstance(s, int) and s >= 400 and s not in (403, 429)): rep['links'].append('%s → %s' % (u, s))
         R['repos'][name] = rep
