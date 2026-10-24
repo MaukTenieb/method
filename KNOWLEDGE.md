@@ -2,6 +2,8 @@
 
 Everything learned while building Insert Koin and the repositories around it, by kind. French below.
 
+Why Hervé Delboy's site on alchemy sits in the Korhogo network, in Mauk Tenieb's words, French and English: [Korhogo, Delboy, l'Idéel](KORHOGO-DELBOY-IDEEL.md).
+
 ## The network
 
 | part | what | where |
@@ -53,6 +55,8 @@ Everything learned while building Insert Koin and the repositories around it, by
 # Base de connaissances
 
 Tout ce que nous apprenons en construisant Insert Koin et les dépôts qui l'entourent, par nature.
+
+Pourquoi le site d'Hervé Delboy sur l'alchimie se trouve dans le réseau Korhogo, dans les mots de Mauk Tenieb, en français et en anglais : [Korhogo, Delboy, l'Idéel](KORHOGO-DELBOY-IDEEL.md).
 
 ## Le réseau
 
