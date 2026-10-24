@@ -197,3 +197,5 @@ Les obstacles rencontrés en construisant Insert Koin et les dépôts qui l'ento
 - [Un EPUB construit dans le navigateur](web-archives.md#an-epub-built-in-the-browser)
 - [Des livres imprimés depuis les pages mêmes](web-archives.md#books-printed-from-the-pages-themselves)
 - [Une recherche plein texte sur un hébergement statique](web-archives.md#full-text-search-on-static-hosting)
+
+<!-- maintenance: ACQUIS.md tranches read up to 8; public commits read up to 2026-10-24 -->
