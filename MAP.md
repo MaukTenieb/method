@@ -22,7 +22,7 @@ Credit for any reuse: Mauk Tenieb & Korhogo. Rights: [LICENSE](LICENSE).
 | [reporhogo](https://github.com/MaukTenieb/reporhogo) | Searches 41 code forges for a topic | `queue.txt` on `main` | branch `result` |
 | [Korhoname](https://github.com/MaukTenieb/Korhoname) | Checks a name on Discogs, MusicBrainz, Wikidata, Wikipedia, TMview, INPI | `queue.txt` on `main` | branch `result` |
 | [korhotube](https://github.com/MaukTenieb/korhotube) | Lists a YouTube channel's videos as JSON | `queue.txt` on `main` | branch `result` |
-| [detour](https://github.com/MaukTenieb/detour) | Cuts a sheet of eight portraits into a sprite strip | a sheet | the sprites of Korong! |
+| [detour](https://github.com/MaukTenieb/detour) | Cuts a sheet of eight portraits into a sprite strip | a sheet | the sprites of Korong! and Faunarratik |
 | [faunator](https://github.com/MaukTenieb/faunator) | Two Tor clients in a web page, over Snowflake | the consensus published by Insert Koin | FaunaTor in Insert Koin |
 | [torview](https://github.com/MaukTenieb/torview) | A desktop web browser in Go through the official Tor daemon | | |
 | [method](https://github.com/MaukTenieb/method) | This guide; prose rules and prose-lint; the weekly coherence check | every public repo | `prose/report.md`, `coherence/report.md` |
@@ -50,7 +50,7 @@ The author sets the rules and settles the exceptions. The routines correct facts
 Les dépôts et services de Korhogo, de Mauk Tenieb : ce que fait chacun, ce qu'il lit, ce qu'il alimente. Les tableaux ci-dessus valent pour les deux langues ; voici leur lecture en français.
 
 - Sites : mauktenieb.github.io (page de liens, robots.txt, sitemap.xml, llms.txt, adresses courtes `/k/<code>`) ; Insert Koin (la salle de jeux) ; 3615 (le Minitel) ; Katabase (la Korhogo Fauna, aka the Masks) ; Curators (la musique de huit curateurs, les cassettes VHS de la rangée CURATORS) ; Photofauna (l'éditeur de photos).
-- Outils : Reporhogo, Korhoname, KorhoTube reçoivent une demande par `queue.txt` sur `main` et répondent sur la branche `result` ; Detour découpe les planches de portraits ; FaunaTor et TorView passent par Tor ; method tient ce guide, les règles de prose et le contrôle de cohérence ; MaukTenieb est la page de profil. Insert Koin remplace l'ancien site, `korhogo`, un dépôt archivé.
+- Outils : Reporhogo, Korhoname, KorhoTube reçoivent une demande par `queue.txt` sur `main` et répondent sur la branche `result` ; Detour découpe les planches de portraits ; FaunaTor et TorView passent par Tor ; method contient ce guide, les règles de prose et le contrôle de cohérence ; MaukTenieb est la page de profil. Insert Koin remplace l'ancien site, `korhogo`, un dépôt archivé.
 - La semaine : palmarès chaque heure ; consensus Tor deux fois par jour ; dimanche soir, le journal privé des décisions et du travail ; lundi 6 h 23 UTC, le contrôle de cohérence ; 7 h 37 UTC, le contrôle de prose ; lundi matin, les cassettes de Curators, les corrections, les réécritures soumises à l'auteur.
 
 L'auteur fixe les règles et tranche les exceptions. Les routines corrigent les faits et les liens, et soumettent à l'auteur chaque réécriture d'un texte avant sa mise en ligne.
