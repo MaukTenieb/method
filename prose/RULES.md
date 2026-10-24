@@ -2,6 +2,10 @@
 
 The rules of every public text of Mauk Tenieb & Korhogo: READMEs, notes, pages, llms.txt, release notes. `prose-lint.py` flags the places to reread; a person decides. French below.
 
+## Seven rules
+
+Clarity, coherence, concision, present tense everywhere, affirmative sentences, relevance, active voice at all times.
+
 ## Write
 
 1. Facts: who, what, when, where, why. Names, numbers, dates, links.
@@ -36,6 +40,8 @@ Every Monday, the workflow `prose` checks the README and llms.txt of every MaukT
 ---
 
 # Règles de prose
+
+Sept règles : clarté, cohérence, concision, présent partout, positivité affirmative, pertinence, voix active en tout temps.
 
 1. Des faits : qui, quoi, quand, où, pourquoi ; noms, nombres, dates, liens.
 2. Le présent.
