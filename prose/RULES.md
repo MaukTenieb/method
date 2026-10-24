@@ -35,7 +35,7 @@ The artist's own texts appear as written, in either language. A translation keep
 python3 -I -X utf8 prose/prose-lint.py FILE...
 ```
 
-Every Monday, the workflow `prose` checks the README and llms.txt of every MaukTenieb repo and commits [report.md](report.md).
+Before each push, from the root of the repository at work, `sh /path/to/method/prose/changed.sh` checks the public texts changed since `origin/main`. Every Monday, the workflow `prose` checks the README and llms.txt of every MaukTenieb repo and commits [report.md](report.md).
 
 ---
 
@@ -53,5 +53,7 @@ Sept règles : clarté, cohérence, concision, présent partout, positivité aff
 À retirer : slogans, formules de vente, superlatifs ; choses abstraites qui agissent comme des personnes (un fichier qui « tient », une page qui « porte », un dépôt qui « dit ») ; « X devient Y » pour annoncer un plan ; « ce n'est pas X, c'est Y » ; triades de rythme ; deux-points de révélation ; métaphores dramatisées ; balises et résumés (« en somme », « au fond ») ; tirets cadratins dans la phrase, libellés en gras, emoji ; le vocabulaire de la liste de Wikipédia.
 
 Les textes de l'artiste se citent tels quels ; une traduction garde leur ton et leur manière de nommer l'absence (« Zéro X »).
+
+Contrôle : avant chaque envoi, `sh prose/changed.sh` à la racine du dépôt touché relit les textes publics modifiés ; chaque lundi, le workflow `prose` relit tous les dépôts.
 
 Credit: Mauk Tenieb & Korhogo. CC BY 4.0 (see [LICENSE](../LICENSE)).
