@@ -14,7 +14,7 @@ OWNER = 'MaukTenieb'
 UA = {'User-Agent': 'method-coherence (Mauk Tenieb & Korhogo)'}
 TOKEN = os.environ.get('GITHUB_TOKEN', '')
 TEXT = re.compile(r'\.(md|html?|txt|json|js|py|yml|yaml)$', re.I)
-SKIP = re.compile(r'(^|/)(node_modules|\.git|vendor)/|nostr-tools\.js$|\.min\.js$|kg-vhs-curations\.js$|catalogue\.json$|palmares\.json$|(^|/)report\.md$|prose/RULES\.md$')
+SKIP = re.compile(r'(^|/)(node_modules|\.git|vendor)/|nostr-tools\.js$|\.min\.js$|kg-vhs-curations\.js$|catalogue\.json$|palmares\.json$|(^|/)report\.md$|prose/RULES\.md$|coherence/check\.py$')
 RETIRED = [('Naphta/Naphta-Kerema', 'Naphta-Kerema seul dans les présentations formelles, Naphta ailleurs'),
            ('Inn Eskort', 'retiré de l\'enseigne le 23 oct. 2026'), ('INN ESKORT', 'retiré de l\'enseigne le 23 oct. 2026'),
            ('Puck You', 'ancien nom de Korong!'), ('Motel Puck', 'ancien nom de Korong!')]
