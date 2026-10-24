@@ -11,6 +11,8 @@ Writes report.md and report.json in the current folder. Copyright (c) 2026 Mauk 
 """
 import json, os, re, subprocess, sys, time, urllib.request, urllib.error
 OWNER = 'MaukTenieb'
+# Repos outside Korhogo: works of other authors, published as received, out of every check and correction.
+EXCLUDE = {'alchimie-delboy'}
 UA = {'User-Agent': 'method-coherence (Mauk Tenieb & Korhogo)'}
 TOKEN = os.environ.get('GITHUB_TOKEN', '')
 TEXT = re.compile(r'\.(md|html?|txt|json|js|py|yml|yaml)$', re.I)
@@ -33,7 +35,7 @@ def repos():
     out, page = [], 1
     while True:
         a = api('/users/%s/repos?type=owner&per_page=100&page=%d' % (OWNER, page))
-        out += [r for r in a if not r.get('private') and not r.get('fork')]
+        out += [r for r in a if not r.get('private') and not r.get('fork') and r['name'] not in EXCLUDE]
         if len(a) < 100: return out
         page += 1
 
