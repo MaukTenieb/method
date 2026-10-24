@@ -1,0 +1,192 @@
+{
+ "checked": "2026-10-24 01:04 UTC",
+ "repos": {
+  "3615": {
+   "archived": false,
+   "rights": [],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "README.md : 2 passages à relire"
+   ],
+   "links": []
+  },
+  "curators": {
+   "archived": false,
+   "rights": [],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "METHODE.md : 14 passages à relire",
+    "METHOD.md : 4 passages à relire",
+    "README.md : 3 passages à relire",
+    "data/derniere-veille.md : 2 passages à relire",
+    "veille/PROMPT.md : 5 passages à relire"
+   ],
+   "links": [
+    "https://github.com/sameraslan/recmyrecord → 404"
+   ]
+  },
+  "detour": {
+   "archived": false,
+   "rights": [],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "README.md : 2 passages à relire"
+   ],
+   "links": []
+  },
+  "faunator": {
+   "archived": false,
+   "rights": [],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "README.md : 2 passages à relire"
+   ],
+   "links": [
+    "https://mauktenieb.github.io/insertkoin/tor/ → 404"
+   ]
+  },
+  "insertkoin": {
+   "archived": false,
+   "rights": [],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "README.md : 15 passages à relire",
+    "PALMARES.md : 1 passages à relire",
+    "notes/src/catchlight.md : 2 passages à relire",
+    "notes/src/detour.md : 1 passages à relire"
+   ],
+   "links": [
+    "https://mauktenieb.github.io/insertkoin/** → 404",
+    "https://mauktenieb.github.io/k/ → 404"
+   ]
+  },
+  "katabase": {
+   "archived": false,
+   "rights": [],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "README.md : 4 passages à relire"
+   ],
+   "links": [
+    "https://mauktenieb.github.io/katabase** → 404"
+   ]
+  },
+  "korhogo": {
+   "archived": true,
+   "rights": [
+    "LICENSE absent"
+   ],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "README.md : 11 passages à relire"
+   ],
+   "links": []
+  },
+  "Korhoname": {
+   "archived": false,
+   "rights": [],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "README.md : 6 passages à relire"
+   ],
+   "links": []
+  },
+  "korhotube": {
+   "archived": false,
+   "rights": [],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "README.md : 2 passages à relire"
+   ],
+   "links": [
+    "https://i.ytimg.com/vi/…/hqdefault.jpg → error",
+    "https://korhotube → error",
+    "https://www.youtube.com/channel/UC… → error",
+    "https://www.youtube.com/watch?v=… → error",
+    "https://you.github.io → 404"
+   ]
+  },
+  "MaukTenieb": {
+   "archived": false,
+   "rights": [],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "README.md : 9 passages à relire"
+   ],
+   "links": []
+  },
+  "mauktenieb.github.io": {
+   "archived": false,
+   "rights": [],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "METHOD.md : 3 passages à relire",
+    "README.md : 3 passages à relire"
+   ],
+   "links": [
+    "https://mauktenieb.github.io/** → 404"
+   ]
+  },
+  "method": {
+   "archived": false,
+   "rights": [],
+   "names": [
+    "coherence/check.py : « Naphta/Naphta-Kerema » ×2 (Naphta-Kerema seul dans les présentations formelles, Naphta ailleurs)",
+    "coherence/check.py : « Inn Eskort » ×2 (retiré de l'enseigne le 23 oct. 2026)",
+    "coherence/check.py : « INN ESKORT » ×1 (retiré de l'enseigne le 23 oct. 2026)",
+    "coherence/check.py : « Puck You » ×2 (ancien nom de Korong!)",
+    "coherence/check.py : « Motel Puck » ×2 (ancien nom de Korong!)"
+   ],
+   "medium": [],
+   "prose": [
+    "METHOD.md : 2 passages à relire",
+    "README.md : 7 passages à relire"
+   ],
+   "links": []
+  },
+  "Photofauna": {
+   "archived": false,
+   "rights": [],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "README.md : 4 passages à relire"
+   ],
+   "links": [
+    "https://mauktenieb.github.io/insertkoin/fotofauna.html** → 404"
+   ]
+  },
+  "reporhogo": {
+   "archived": false,
+   "rights": [],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "README.md : 2 passages à relire"
+   ],
+   "links": []
+  },
+  "torview": {
+   "archived": false,
+   "rights": [],
+   "names": [],
+   "medium": [],
+   "prose": [
+    "SECURITY.md : 16 passages à relire",
+    "README.md : 2 passages à relire"
+   ],
+   "links": []
+  }
+ }
+}
