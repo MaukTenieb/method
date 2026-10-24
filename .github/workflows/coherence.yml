@@ -1,0 +1,31 @@
+# Every Monday: coherence/check.py reads every public MaukTenieb repo (rights, retired names, Medium links, prose, dead links); the result goes to coherence/report.md and coherence/report.json.
+name: coherence
+
+on:
+  schedule:
+    - cron: "23 6 * * 1"   # Monday, 6:23 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  coherence:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - name: Read and check every public repo
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd coherence
+          python3 -I -X utf8 check.py /tmp/repos
+      - name: Commit
+        run: |
+          git config user.name "Mauk Tenieb"
+          git config user.email "mauktenieb@gmail.com"
+          git add coherence/report.md coherence/report.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "coherence: report of $(date -u +%F)"
+          git push

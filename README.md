@@ -45,6 +45,7 @@ Kind 30078 is addressable: a relay keeps the last version per key and per `d`. A
 - [Curators](https://github.com/MaukTenieb/curators): every Monday, Claude Code runs on GitHub Actions with a written prompt, reads eight curators' public sources, adds their picks, and two Python programs rank the artists and press VHS cassettes for Insert Koin.
 - Public data: the same facts on YouTube, Bandcamp, MusicBrainz, the Internet Archive, Discogs, Wikidata and the sites. Method: [METHOD.md](METHOD.md).
 - [Reporhogo](https://github.com/MaukTenieb/reporhogo) searches 41 code forges; [Korhoname](https://github.com/MaukTenieb/Korhoname) checks a name on Discogs, MusicBrainz, trademark registers and known works; [KorhoTube](https://github.com/MaukTenieb/korhotube) lists a channel's videos as JSON. Each one takes a request through a file pushed to `main` (`queue.txt`) and writes the answer to a `result` branch.
+- Coherence: every Monday, the workflow `coherence` reads every public MaukTenieb repo and lists, repo by repo, a missing rights line, names retired by the names policy, links to the Medium account, prose to reread and dead links. Report: [coherence/report.md](coherence/report.md); program: [coherence/check.py](coherence/check.py).
 
 ## 5. Images
 
@@ -109,7 +110,8 @@ Le 3615 et l'arcade se servent du réseau ouvert Nostr comme seul serveur (table
 
 - [Curators](https://github.com/MaukTenieb/curators) : chaque lundi, Claude Code tourne dans GitHub Actions avec une consigne écrite, lit les sources de huit curateurs, et deux programmes Python classent les artistes et pressent les cassettes VHS d'Insert Koin.
 - Données publiques : mêmes faits sur toutes les plateformes ; méthode : [METHOD.md](METHOD.md).
-- Reporhogo, Korhoname, KorhoTube : une demande par fichier poussé sur `main` (`queue.txt`), la réponse sur une branche `result`.
+- Reporhogo, Korhoname, KorhoTube : une demande par fichier déposé sur `main` (`queue.txt`), la réponse sur une branche `result`.
+- Cohérence : chaque lundi, le workflow `coherence` lit chaque dépôt public de MaukTenieb et relève, dépôt par dépôt, une ligne de droits absente, les noms retirés par la politique des noms, les liens vers le compte Medium, la prose à relire et les liens morts. Rapport : [coherence/report.md](coherence/report.md) ; programme : [coherence/check.py](coherence/check.py).
 
 ## 5. Images
 
