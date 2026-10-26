@@ -1,4 +1,4 @@
-# Coherence — 2026-10-24 01:04 UTC
+# Coherence — 2026-10-26 13:19 UTC
 
 Public repositories of MaukTenieb, checked one by one.
 
@@ -21,16 +21,14 @@ Prose to reread:
 
 Prose to reread:
 - README.md : 4 passages à relire
-Dead links:
-- https://mauktenieb.github.io/insertkoin/fotofauna.html** → 404
 
 ## curators
 
 Prose to reread:
-- METHODE.md : 14 passages à relire
-- METHOD.md : 4 passages à relire
+- METHODE.md : 15 passages à relire
+- METHOD.md : 5 passages à relire
 - README.md : 3 passages à relire
-- data/derniere-veille.md : 2 passages à relire
+- data/derniere-veille.md : 1 passages à relire
 - veille/PROMPT.md : 5 passages à relire
 Dead links:
 - https://github.com/sameraslan/recmyrecord → 404
@@ -50,20 +48,15 @@ Dead links:
 ## insertkoin
 
 Prose to reread:
-- README.md : 15 passages à relire
+- README.md : 17 passages à relire
 - PALMARES.md : 1 passages à relire
 - notes/src/catchlight.md : 2 passages à relire
 - notes/src/detour.md : 1 passages à relire
-Dead links:
-- https://mauktenieb.github.io/insertkoin/** → 404
-- https://mauktenieb.github.io/k/ → 404
 
 ## katabase
 
 Prose to reread:
 - README.md : 4 passages à relire
-Dead links:
-- https://mauktenieb.github.io/katabase** → 404
 
 ## korhogo (archived)
 
@@ -77,10 +70,6 @@ Prose to reread:
 Prose to reread:
 - README.md : 2 passages à relire
 Dead links:
-- https://i.ytimg.com/vi/…/hqdefault.jpg → error
-- https://korhotube → error
-- https://www.youtube.com/channel/UC… → error
-- https://www.youtube.com/watch?v=… → error
 - https://you.github.io → 404
 
 ## mauktenieb.github.io
@@ -88,25 +77,41 @@ Dead links:
 Prose to reread:
 - METHOD.md : 3 passages à relire
 - README.md : 3 passages à relire
-Dead links:
-- https://mauktenieb.github.io/** → 404
+- borne/BORNE.md : 6 passages à relire
+- borne/PALMARES.md : 1 passages à relire
+- borne/pf/SOURCES.md : 3 passages à relire
 
 ## method
 
 Names:
-- coherence/check.py : « Naphta/Naphta-Kerema » ×2 (Naphta-Kerema seul dans les présentations formelles, Naphta ailleurs)
-- coherence/check.py : « Inn Eskort » ×2 (retiré de l'enseigne le 23 oct. 2026)
-- coherence/check.py : « INN ESKORT » ×1 (retiré de l'enseigne le 23 oct. 2026)
-- coherence/check.py : « Puck You » ×2 (ancien nom de Korong!)
-- coherence/check.py : « Motel Puck » ×2 (ancien nom de Korong!)
+- coherence/report.json : « Naphta/Naphta-Kerema » ×1 (Naphta-Kerema seul dans les présentations formelles, Naphta ailleurs)
+- coherence/report.json : « Inn Eskort » ×1 (retiré de l'enseigne le 23 oct. 2026)
+- coherence/report.json : « INN ESKORT » ×1 (retiré de l'enseigne le 23 oct. 2026)
+- coherence/report.json : « Puck You » ×1 (ancien nom de Korong!)
+- coherence/report.json : « Motel Puck » ×1 (ancien nom de Korong!)
 Prose to reread:
+- KORHOGO-DELBOY-IDEEL.md : 67 passages à relire
+- KNOWLEDGE.md : 4 passages à relire
 - METHOD.md : 2 passages à relire
-- README.md : 7 passages à relire
+- README.md : 9 passages à relire
+- MAP.md : 1 passages à relire
+- archives/README.md : 2 passages à relire
+- methods/reconstitute-a-website.md : 3 passages à relire
+- methods/recover-a-lost-website.md : 7 passages à relire
+- recipes/prose-and-engines.md : 4 passages à relire
+- recipes/web-archives.md : 5 passages à relire
+- recipes/hosting-and-workflows.md : 4 passages à relire
+- recipes/browser-and-tests.md : 5 passages à relire
+- recipes/nostr-tor-images.md : 6 passages à relire
+- recipes/README.md : 9 passages à relire
+- recipes/platforms.md : 7 passages à relire
 
 ## reporhogo
 
 Prose to reread:
-- README.md : 2 passages à relire
+- README.md : 3 passages à relire
+Dead links:
+- http://example.fr/page.htm → 404
 
 ## torview
 

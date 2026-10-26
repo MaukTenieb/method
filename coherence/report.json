@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-24 01:04 UTC",
+ "checked": "2026-10-26 13:19 UTC",
  "repos": {
   "3615": {
    "archived": false,
@@ -17,10 +17,10 @@
    "names": [],
    "medium": [],
    "prose": [
-    "METHODE.md : 14 passages à relire",
-    "METHOD.md : 4 passages à relire",
+    "METHODE.md : 15 passages à relire",
+    "METHOD.md : 5 passages à relire",
     "README.md : 3 passages à relire",
-    "data/derniere-veille.md : 2 passages à relire",
+    "data/derniere-veille.md : 1 passages à relire",
     "veille/PROMPT.md : 5 passages à relire"
    ],
    "links": [
@@ -55,15 +55,12 @@
    "names": [],
    "medium": [],
    "prose": [
-    "README.md : 15 passages à relire",
+    "README.md : 17 passages à relire",
     "PALMARES.md : 1 passages à relire",
     "notes/src/catchlight.md : 2 passages à relire",
     "notes/src/detour.md : 1 passages à relire"
    ],
-   "links": [
-    "https://mauktenieb.github.io/insertkoin/** → 404",
-    "https://mauktenieb.github.io/k/ → 404"
-   ]
+   "links": []
   },
   "katabase": {
    "archived": false,
@@ -73,9 +70,7 @@
    "prose": [
     "README.md : 4 passages à relire"
    ],
-   "links": [
-    "https://mauktenieb.github.io/katabase** → 404"
-   ]
+   "links": []
   },
   "korhogo": {
    "archived": true,
@@ -108,10 +103,6 @@
     "README.md : 2 passages à relire"
    ],
    "links": [
-    "https://i.ytimg.com/vi/…/hqdefault.jpg → error",
-    "https://korhotube → error",
-    "https://www.youtube.com/channel/UC… → error",
-    "https://www.youtube.com/watch?v=… → error",
     "https://you.github.io → 404"
    ]
   },
@@ -132,26 +123,40 @@
    "medium": [],
    "prose": [
     "METHOD.md : 3 passages à relire",
-    "README.md : 3 passages à relire"
+    "README.md : 3 passages à relire",
+    "borne/BORNE.md : 6 passages à relire",
+    "borne/PALMARES.md : 1 passages à relire",
+    "borne/pf/SOURCES.md : 3 passages à relire"
    ],
-   "links": [
-    "https://mauktenieb.github.io/** → 404"
-   ]
+   "links": []
   },
   "method": {
    "archived": false,
    "rights": [],
    "names": [
-    "coherence/check.py : « Naphta/Naphta-Kerema » ×2 (Naphta-Kerema seul dans les présentations formelles, Naphta ailleurs)",
-    "coherence/check.py : « Inn Eskort » ×2 (retiré de l'enseigne le 23 oct. 2026)",
-    "coherence/check.py : « INN ESKORT » ×1 (retiré de l'enseigne le 23 oct. 2026)",
-    "coherence/check.py : « Puck You » ×2 (ancien nom de Korong!)",
-    "coherence/check.py : « Motel Puck » ×2 (ancien nom de Korong!)"
+    "coherence/report.json : « Naphta/Naphta-Kerema » ×1 (Naphta-Kerema seul dans les présentations formelles, Naphta ailleurs)",
+    "coherence/report.json : « Inn Eskort » ×1 (retiré de l'enseigne le 23 oct. 2026)",
+    "coherence/report.json : « INN ESKORT » ×1 (retiré de l'enseigne le 23 oct. 2026)",
+    "coherence/report.json : « Puck You » ×1 (ancien nom de Korong!)",
+    "coherence/report.json : « Motel Puck » ×1 (ancien nom de Korong!)"
    ],
    "medium": [],
    "prose": [
+    "KORHOGO-DELBOY-IDEEL.md : 67 passages à relire",
+    "KNOWLEDGE.md : 4 passages à relire",
     "METHOD.md : 2 passages à relire",
-    "README.md : 7 passages à relire"
+    "README.md : 9 passages à relire",
+    "MAP.md : 1 passages à relire",
+    "archives/README.md : 2 passages à relire",
+    "methods/reconstitute-a-website.md : 3 passages à relire",
+    "methods/recover-a-lost-website.md : 7 passages à relire",
+    "recipes/prose-and-engines.md : 4 passages à relire",
+    "recipes/web-archives.md : 5 passages à relire",
+    "recipes/hosting-and-workflows.md : 4 passages à relire",
+    "recipes/browser-and-tests.md : 5 passages à relire",
+    "recipes/nostr-tor-images.md : 6 passages à relire",
+    "recipes/README.md : 9 passages à relire",
+    "recipes/platforms.md : 7 passages à relire"
    ],
    "links": []
   },
@@ -163,9 +168,7 @@
    "prose": [
     "README.md : 4 passages à relire"
    ],
-   "links": [
-    "https://mauktenieb.github.io/insertkoin/fotofauna.html** → 404"
-   ]
+   "links": []
   },
   "reporhogo": {
    "archived": false,
@@ -173,9 +176,11 @@
    "names": [],
    "medium": [],
    "prose": [
-    "README.md : 2 passages à relire"
+    "README.md : 3 passages à relire"
    ],
-   "links": []
+   "links": [
+    "http://example.fr/page.htm → 404"
+   ]
   },
   "torview": {
    "archived": false,
