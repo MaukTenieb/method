@@ -1,4 +1,4 @@
-# Coherence — 2026-10-26 13:19 UTC
+# Coherence — 2026-11-02 16:19 UTC
 
 Public repositories of MaukTenieb, checked one by one.
 
@@ -26,9 +26,8 @@ Prose to reread:
 
 Prose to reread:
 - METHODE.md : 15 passages à relire
-- METHOD.md : 5 passages à relire
 - README.md : 3 passages à relire
-- data/derniere-veille.md : 1 passages à relire
+- METHOD.md : 5 passages à relire
 - veille/PROMPT.md : 5 passages à relire
 Dead links:
 - https://github.com/sameraslan/recmyrecord → 404
@@ -48,8 +47,16 @@ Dead links:
 ## insertkoin
 
 Prose to reread:
-- README.md : 17 passages à relire
 - PALMARES.md : 1 passages à relire
+- BORNE.md : 21 passages à relire
+- README.md : 17 passages à relire
+- DA.md : 9 passages à relire
+- archive/PALMARES.md : 1 passages à relire
+- archive/README.md : 17 passages à relire
+- archive/notes/src/catchlight.md : 2 passages à relire
+- archive/notes/src/detour.md : 1 passages à relire
+- pf/SOURCES.md : 3 passages à relire
+- snd/SOURCES.md : 1 passages à relire
 - notes/src/catchlight.md : 2 passages à relire
 - notes/src/detour.md : 1 passages à relire
 
@@ -75,11 +82,13 @@ Dead links:
 ## mauktenieb.github.io
 
 Prose to reread:
-- METHOD.md : 3 passages à relire
 - README.md : 3 passages à relire
-- borne/BORNE.md : 6 passages à relire
+- METHOD.md : 3 passages à relire
 - borne/PALMARES.md : 1 passages à relire
+- borne/BORNE.md : 21 passages à relire
+- borne/DA.md : 9 passages à relire
 - borne/pf/SOURCES.md : 3 passages à relire
+- borne/snd/SOURCES.md : 1 passages à relire
 
 ## method
 
@@ -90,21 +99,21 @@ Names:
 - coherence/report.json : « Puck You » ×1 (ancien nom de Korong!)
 - coherence/report.json : « Motel Puck » ×1 (ancien nom de Korong!)
 Prose to reread:
-- KORHOGO-DELBOY-IDEEL.md : 67 passages à relire
 - KNOWLEDGE.md : 4 passages à relire
-- METHOD.md : 2 passages à relire
+- KORHOGO-DELBOY-IDEEL.md : 67 passages à relire
 - README.md : 9 passages à relire
+- METHOD.md : 2 passages à relire
 - MAP.md : 1 passages à relire
 - archives/README.md : 2 passages à relire
-- methods/reconstitute-a-website.md : 3 passages à relire
-- methods/recover-a-lost-website.md : 7 passages à relire
-- recipes/prose-and-engines.md : 4 passages à relire
-- recipes/web-archives.md : 5 passages à relire
+- recipes/nostr-tor-images.md : 6 passages à relire
 - recipes/hosting-and-workflows.md : 4 passages à relire
 - recipes/browser-and-tests.md : 5 passages à relire
-- recipes/nostr-tor-images.md : 6 passages à relire
+- recipes/web-archives.md : 5 passages à relire
+- recipes/prose-and-engines.md : 4 passages à relire
 - recipes/README.md : 9 passages à relire
 - recipes/platforms.md : 7 passages à relire
+- methods/reconstitute-a-website.md : 3 passages à relire
+- methods/recover-a-lost-website.md : 7 passages à relire
 
 ## reporhogo
 
@@ -116,7 +125,7 @@ Dead links:
 ## torview
 
 Prose to reread:
-- SECURITY.md : 16 passages à relire
 - README.md : 2 passages à relire
+- SECURITY.md : 16 passages à relire
 
 Copyright © Mauk Tenieb & Korhogo.

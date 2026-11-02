@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-26 13:19 UTC",
+ "checked": "2026-11-02 16:19 UTC",
  "repos": {
   "3615": {
    "archived": false,
@@ -18,9 +18,8 @@
    "medium": [],
    "prose": [
     "METHODE.md : 15 passages à relire",
-    "METHOD.md : 5 passages à relire",
     "README.md : 3 passages à relire",
-    "data/derniere-veille.md : 1 passages à relire",
+    "METHOD.md : 5 passages à relire",
     "veille/PROMPT.md : 5 passages à relire"
    ],
    "links": [
@@ -55,8 +54,16 @@
    "names": [],
    "medium": [],
    "prose": [
-    "README.md : 17 passages à relire",
     "PALMARES.md : 1 passages à relire",
+    "BORNE.md : 21 passages à relire",
+    "README.md : 17 passages à relire",
+    "DA.md : 9 passages à relire",
+    "archive/PALMARES.md : 1 passages à relire",
+    "archive/README.md : 17 passages à relire",
+    "archive/notes/src/catchlight.md : 2 passages à relire",
+    "archive/notes/src/detour.md : 1 passages à relire",
+    "pf/SOURCES.md : 3 passages à relire",
+    "snd/SOURCES.md : 1 passages à relire",
     "notes/src/catchlight.md : 2 passages à relire",
     "notes/src/detour.md : 1 passages à relire"
    ],
@@ -122,11 +129,13 @@
    "names": [],
    "medium": [],
    "prose": [
-    "METHOD.md : 3 passages à relire",
     "README.md : 3 passages à relire",
-    "borne/BORNE.md : 6 passages à relire",
+    "METHOD.md : 3 passages à relire",
     "borne/PALMARES.md : 1 passages à relire",
-    "borne/pf/SOURCES.md : 3 passages à relire"
+    "borne/BORNE.md : 21 passages à relire",
+    "borne/DA.md : 9 passages à relire",
+    "borne/pf/SOURCES.md : 3 passages à relire",
+    "borne/snd/SOURCES.md : 1 passages à relire"
    ],
    "links": []
   },
@@ -142,21 +151,21 @@
    ],
    "medium": [],
    "prose": [
-    "KORHOGO-DELBOY-IDEEL.md : 67 passages à relire",
     "KNOWLEDGE.md : 4 passages à relire",
-    "METHOD.md : 2 passages à relire",
+    "KORHOGO-DELBOY-IDEEL.md : 67 passages à relire",
     "README.md : 9 passages à relire",
+    "METHOD.md : 2 passages à relire",
     "MAP.md : 1 passages à relire",
     "archives/README.md : 2 passages à relire",
-    "methods/reconstitute-a-website.md : 3 passages à relire",
-    "methods/recover-a-lost-website.md : 7 passages à relire",
-    "recipes/prose-and-engines.md : 4 passages à relire",
-    "recipes/web-archives.md : 5 passages à relire",
+    "recipes/nostr-tor-images.md : 6 passages à relire",
     "recipes/hosting-and-workflows.md : 4 passages à relire",
     "recipes/browser-and-tests.md : 5 passages à relire",
-    "recipes/nostr-tor-images.md : 6 passages à relire",
+    "recipes/web-archives.md : 5 passages à relire",
+    "recipes/prose-and-engines.md : 4 passages à relire",
     "recipes/README.md : 9 passages à relire",
-    "recipes/platforms.md : 7 passages à relire"
+    "recipes/platforms.md : 7 passages à relire",
+    "methods/reconstitute-a-website.md : 3 passages à relire",
+    "methods/recover-a-lost-website.md : 7 passages à relire"
    ],
    "links": []
   },
@@ -188,8 +197,8 @@
    "names": [],
    "medium": [],
    "prose": [
-    "SECURITY.md : 16 passages à relire",
-    "README.md : 2 passages à relire"
+    "README.md : 2 passages à relire",
+    "SECURITY.md : 16 passages à relire"
    ],
    "links": []
   }
