@@ -46,7 +46,7 @@ Kind 30078 is addressable: a relay keeps the last version per key and per `d`. A
 
 ## 4. Watches
 
-- [Curators](https://github.com/MaukTenieb/curators): every Monday, Claude Code runs on GitHub Actions with a written prompt, reads eight curators' public sources, adds their picks, and two Python programs rank the artists and press VHS cassettes for Insert Koin.
+- [Curators](https://github.com/MaukTenieb/curators): in session with the author, Claude Code runs on GitHub Actions with a written prompt, reads eight curators' public sources, adds their picks, and two Python programs rank the artists and press VHS cassettes for Insert Koin.
 - Public data: the same facts on YouTube, Bandcamp, MusicBrainz, the Internet Archive, Discogs, Wikidata and the sites. Method: [METHOD.md](METHOD.md).
 - [Reporhogo](https://github.com/MaukTenieb/reporhogo) searches 41 code forges, and its tool [Captures](https://github.com/MaukTenieb/reporhogo/tree/main/captures) eight web archives; [Korhoname](https://github.com/MaukTenieb/Korhoname) checks a name on Discogs, MusicBrainz, trademark registers and known works; [KorhoTube](https://github.com/MaukTenieb/korhotube) lists a channel's videos as JSON. Each one takes a request through a file pushed to `main` (`queue.txt`) and writes the answer to a `result` branch.
 - Coherence: every Monday, the workflow `coherence` reads every public MaukTenieb repo and lists, repo by repo, a missing rights line, names retired by the names policy, links to the Medium account, prose to reread and dead links. Report: [coherence/report.md](coherence/report.md); program: [coherence/check.py](coherence/check.py).
