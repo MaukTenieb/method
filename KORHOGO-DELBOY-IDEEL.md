@@ -62,7 +62,7 @@ Tant que la reconstitution-golem du site mythique d'Hervé Delboy [un classique 
 
 — […] Attends. Mais putain, à la fin. Qui est qui ?!
 
-— Allons... Mauk Tenieb : l'artiste. Unkle Maukie, c'est son Mask. Et faisons un peu de maths très bon marché hein. À la manière Parménide-Héraclite-Aristote-ou-qui-que-ce-soit [l'art, la religion, l'ontologie nomment, glissent, jugent...] : Honey Buzzard = Marumero = Limulus = Chrême ; Aube = Rosy Fingers ; Truce = ↑héé↑è↑e ; Malika = Quintina ; Naphta-Kerema = C7H5N3O6 = Plague of Justinian ; Aube = Maiden Call ; Cadaver Synod = Poisoned Well = Silent Pact ; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim ; Grand Colonel = Malika = Maukie ; Hátra Lövés = Croisière Noire = Honey Buzzard, et tout ça.
+— Allons... Mauk Tenieb : l'artiste. Unkle Maukie, c'est son Mask. Et faisons un peu de maths très bon marché hein. À la manière Parménide-Héraclite-Aristote-ou-qui-que-ce-soit [l'art, la religion, la philosophie nomment, glissent, jugent...] : Honey Buzzard = Marumero = Limulus = Chrême ; Aube = Rosy Fingers ; Truce = ↑héé↑è↑e ; Malika = Quintina ; Naphta-Kerema = C7H5N3O6 = Plague of Justinian ; Aube = Maiden Call ; Cadaver Synod = Poisoned Well = Silent Pact ; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim ; Grand Colonel = Malika = Maukie ; Hátra Lövés = Croisière Noire = Honey Buzzard, et tout ça.
 
 Pour plonger : [korhogo.substack.com](https://korhogo.substack.com) · [https://orcid.org/0009-0007-9096-8267](https://orcid.org/0009-0007-9096-8267)
 
@@ -128,7 +128,7 @@ As long as the golem-reconstruction of Hervé Delboy's mythical site [a classic 
 
 — […] Wait. Who the fuck is who?
 
-— Come on. Mauk Tenieb: the artist. Unkle Maukie is his Mask. And let's do some Parmenides-Heraclitus-Aristotle-whoever mathema-shit [art core]: Honey Buzzard = Marumero = Limulus = Chrême; Aube = Rosy Fingers; Truce = ↑héé↑è↑e; Malika = Quintina; Naphta-Kerema = C7H5N3O6 = Plague of Justinian; Aube = Maiden Call; Cadaver Synod = Poisoned Well = Silent Pact; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim; Grand Colonel = Malika = Maukie; Hátra Lövés = Croisière Noire = Honey Buzzard, and so forth.
+— Come on. Mauk Tenieb: the artist. Unkle Maukie is his Mask. And let's do some Parmenides-Heraclitus-Aristotle-whoever mathema-shit [art, religion, philosophy name, slide, judge...]: Honey Buzzard = Marumero = Limulus = Chrême; Aube = Rosy Fingers; Truce = ↑héé↑è↑e; Malika = Quintina; Naphta-Kerema = C7H5N3O6 = Plague of Justinian; Aube = Maiden Call; Cadaver Synod = Poisoned Well = Silent Pact; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim; Grand Colonel = Malika = Maukie; Hátra Lövés = Croisière Noire = Honey Buzzard, and so forth.
 
 
 To dive in: [korhogo.substack.com](https://korhogo.substack.com) · [https://orcid.org/0009-0007-9096-8267](https://orcid.org/0009-0007-9096-8267)
