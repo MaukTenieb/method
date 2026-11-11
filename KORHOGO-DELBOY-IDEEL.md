@@ -10,7 +10,7 @@ Tant que la reconstitution-golem du site mythique d'Hervé Delboy [un classique 
 
 — Bon. Le site de Delboy, recopié et rendu public, est-il un dépôt d'Idéel au sens d'Evald Ilyenkov, de l'activité passée déposée dans des pages, que Korhogo réactive en la travaillant ?
 
-— Oui et non. C'est une pile énergétique et une inspiration. Un limon vivant. Pour les gens qui se souviennent de cette perle de concentration de concepts et de travail érudit qu'est ledit site. Pour l'histoire humaine aussi : les dépôts actifs de l'Antiquité tardive à la veille de la période moderne (scientifique) et même un peu au-delà, si on inclut Isaac Newton, Marcellin Berthelot, peut-être les Curie, puis des artistes, intellectuels ou passionnés contemporains. Le versant sciences historiques du Centre national de la recherche scientifique s'y intéresse aussi : Didier Kahn, *Le Fixe et le Volatil. Chimie et alchimie, de Paracelse à Lavoisier* (CNRS Éditions, 2016).
+— Oui et non. C'est une pile énergétique et une inspiration. Un limon vivant. Pour les gens qui se souviennent de cette perle de concentration de concepts et de travail érudit qu'est ledit site. Pour l'histoire humaine aussi : les dépôts actifs de l'Antiquité tardive à la veille de la période moderne (scientifique) et même un peu au-delà, si on inclut Isaac Newton, Marcellin Berthelot, Frederick Soddy, puis des artistes, intellectuels ou passionnés contemporains. Le versant sciences historiques du Centre national de la recherche scientifique s'y intéresse aussi : Didier Kahn, *Le Fixe et le Volatil. Chimie et alchimie, de Paracelse à Lavoisier* (CNRS Éditions, 2016).
 
 — Les concepts qu'on taille et qui nous taillent : dans Korhogo, qui taille qui ?
 
@@ -80,7 +80,7 @@ As long as the golem-reconstruction of Hervé Delboy's mythical site [a classic 
 
 — Well. Is Delboy's site, copied and made public again, a deposit of the Ideal in Evald Ilyenkov's sense, past activity laid down in pages, which Korhogo reawakens by working it?
 
-— Yes and no. It is a battery of energy and an inspiration. A living silt. For the people who remember that pearl, that concentration of concepts and erudite work the said site is. For human history too: the active deposits from late Antiquity to the eve of the modern (scientific) period, and even a little beyond, if you include Isaac Newton, Marcellin Berthelot, perhaps the Curies, then contemporary artists, intellectuals and enthusiasts. The historic sciences side of Centre national de la recherche scientifique takes an interest too: Didier Kahn, *Le Fixe et le Volatil. Chimie et alchimie, de Paracelse à Lavoisier* (CNRS Éditions, 2016).
+— Yes and no. It is a battery of energy and an inspiration. A living silt. For the people who remember that pearl, that concentration of concepts and erudite work the said site is. For human history too: the active deposits from late Antiquity to the eve of the modern (scientific) period, and even a little beyond, if you include Isaac Newton, Marcellin Berthelot, Frederick Soddy, then contemporary artists, intellectuals and enthusiasts. The historic sciences side of Centre national de la recherche scientifique takes an interest too: Didier Kahn, *Le Fixe et le Volatil. Chimie et alchimie, de Paracelse à Lavoisier* (CNRS Éditions, 2016).
 
 — The concepts we carve and that carve us: in Korhogo, who carves whom?
 
