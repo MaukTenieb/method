@@ -38,7 +38,7 @@ Tant que la reconstitution-golem du site mythique d'Hervé Delboy [un classique 
 
 — Et le Tsimtsum, ce retrait par lequel, dans la kabbale d'Isaac Louria, l'infini se contracte pour laisser place au monde : qu'en tire Korhogo ?
 
-— Korhogo en tire une part collective, une fois de plus. Tsimtsum, que tu cites, est un projet à deux artistes. Tout le monde le sait...
+— Korhogo en tire du collectif, une fois de plus. Tsimtsum, que tu cites, est un projet à deux artistes. Tout le monde le sait...
 
 — De l'Égypte ptolémaïque à l'orée du siècle moderne, quels relais comptent pour toi : Zosime de Panopolis, l'Hermès d'Alexandrie, les Douze Clefs de Basile Valentin, Cyliani, Fulcanelli, d'autres ?
 
@@ -108,7 +108,7 @@ As long as the golem-reconstruction of Hervé Delboy's mythical site [a classic 
 
 — And the Tsimtsum, the withdrawal by which, in Isaac Luria's Kabbalah, the infinite contracts to make room for the world: what does Korhogo draw from it?
 
-— Korhogo draws a collective share from it, once again. Tsimtsum, which you mention, is a project by two artists. Everybody knows that...
+— Korhogo draws something collective from it, once again. Tsimtsum, which you mention, is a project by two artists. Everybody knows that...
 
 — From Ptolemaic Egypt to the threshold of the modern age, which relays count for you: Zosimos of Panopolis, the Hermes of Alexandria, the Twelve Keys of Basil Valentine, Cyliani, Fulcanelli, others?
 
