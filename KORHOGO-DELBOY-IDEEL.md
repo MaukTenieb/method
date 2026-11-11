@@ -36,9 +36,9 @@ Tant que la reconstitution-golem du site mythique d'Hervé Delboy [un classique 
 
 — J'attends rien d'Hervé Delboy, qui est un érudit. Et qui a besoin de tout sauf de Maukie-rhogo. La chimie ? Ah, la formulation : son idée. La mise au point. Le composé explosif.
 
-— Et le Tsimtsum, ce retrait par lequel, dans la kabbale d'Isaac Louria, l'infini se contracte pour laisser place au monde : qu'en prend Korhogo ?
+— Et le Tsimtsum, ce retrait par lequel, dans la kabbale d'Isaac Louria, l'infini se contracte pour laisser place au monde : qu'en tire Korhogo ?
 
-— La partie collective, une fois de plus. C'est un projet à deux artistes. Tout le monde le sait...
+— Korhogo en tire une part collective, une fois de plus. Tsimtsum, que tu cites, est un projet à deux artistes. Tout le monde le sait...
 
 — De l'Égypte ptolémaïque à l'orée du siècle moderne, quels relais comptent pour toi : Zosime de Panopolis, l'Hermès d'Alexandrie, les Douze Clefs de Basile Valentin, Cyliani, Fulcanelli, d'autres ?
 
@@ -106,9 +106,9 @@ As long as the golem-reconstruction of Hervé Delboy's mythical site [a classic 
 
 — I expect nothing from Hervé Delboy, who is a very literate man. And who needs everything except Maukie-rhogo. Chemistry? Ah, the formulation: its idea. The fine-tuning. The explosive compound.
 
-— And the Tsimtsum, the withdrawal by which, in Isaac Luria's Kabbalah, the infinite contracts to make room for the world: what does Korhogo take from it?
+— And the Tsimtsum, the withdrawal by which, in Isaac Luria's Kabbalah, the infinite contracts to make room for the world: what does Korhogo draw from it?
 
-— The collective part, once again. It's a project by two artists. Everybody knows that...
+— Korhogo draws a collective share from it, once again. Tsimtsum, which you mention, is a project by two artists. Everybody knows that...
 
 — From Ptolemaic Egypt to the threshold of the modern age, which relays count for you: Zosimos of Panopolis, the Hermes of Alexandria, the Twelve Keys of Basil Valentine, Cyliani, Fulcanelli, others?
 
