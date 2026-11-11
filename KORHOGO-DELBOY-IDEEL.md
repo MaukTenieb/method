@@ -44,7 +44,7 @@ Tant que la reconstitution-golem du site mythique d'Hervé Delboy [un classique 
 
 — Ceux qui écrivent le mieux. Le plus densément. De la manière la plus hypnotique pour quiconque les lit. Ça entête...
 
-— Et le passage de l'alchimie à la chimie, de Paracelse à Lavoisier : un progrès qui dépasse l'alchimie, ou une perte que l'art récupère par ailleurs ?
+— Et le passage de l'alchimie à la chimie, de Paracelse à Antoine Lavoisier : un progrès qui dépasse l'alchimie, ou une perte que l'art récupère par ailleurs ?
 
 — Ce que la mystique perd au profit de la connaissance est toujours un gain collectif. Individuellement, tu peux déployer des rapports entre les choses, de l'esthétique, du jus de plaisir, par l'art. Quoi qu'il advienne. Une compensation ? Non, un plaisir. Tellement compatible avec tout. Avec la vie bonne.
 
@@ -114,7 +114,7 @@ As long as the golem-reconstruction of Hervé Delboy's mythical site [a classic 
 
 — Those who write best. Most densely. Most hypnotically, for anyone who reads them. It goes to your head...
 
-— And the passage from alchemy to chemistry, from Paracelsus to Lavoisier: progress beyond alchemy, or a loss that art recovers elsewhere?
+— And the passage from alchemy to chemistry, from Paracelsus to Antoine Lavoisier: progress beyond alchemy, or a loss that art recovers elsewhere?
 
 — What mysticism loses to knowledge is always a collective gain. Individually, you can unfold relations between things, aesthetics, the juice of pleasure, through art. Whatever happens. A compensation? No, a pleasure. So compatible with everything. With the good life.
 
