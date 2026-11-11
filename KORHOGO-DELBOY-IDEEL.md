@@ -34,7 +34,7 @@ Tant que la reconstitution-golem du site mythique d'Hervé Delboy [un classique 
 
 — Tes labels contiennent déjà une formule chimique, C7H5N3O6, le trinitrotoluène, et un concept de la kabbale, le Tsimtsum. Est-ce le même geste que celui que tu attends de Delboy ?
 
-— J'attends rien d'Hervé Delboy, qui est un érudit. Et qui a besoin de tout sauf de Maukie. La chimie ? Ah, la formulation : son idée. La mise au point. Le composé explosif.
+— J'attends rien d'Hervé Delboy, qui est un érudit. Et qui a besoin de tout sauf de Maukie-rhogo. La chimie ? Ah, la formulation : son idée. La mise au point. Le composé explosif.
 
 — Et le Tsimtsum, ce retrait par lequel, dans la kabbale d'Isaac Louria, l'infini se contracte pour laisser place au monde : qu'en prend Korhogo ?
 
@@ -104,7 +104,7 @@ As long as the golem-reconstruction of Hervé Delboy's mythical site [a classic 
 
 — Your labels already hold a chemical formula, C7H5N3O6, trinitrotoluene, and a concept from the Kabbalah, the Tsimtsum. Is it the same gesture as the one you expect from Delboy?
 
-— I expect nothing from Hervé Delboy, who is a very literate man. And who needs everything except Maukie. Chemistry? Ah, the formulation: its idea. The fine-tuning. The explosive compound.
+— I expect nothing from Hervé Delboy, who is a very literate man. And who needs everything except Maukie-rhogo. Chemistry? Ah, the formulation: its idea. The fine-tuning. The explosive compound.
 
 — And the Tsimtsum, the withdrawal by which, in Isaac Luria's Kabbalah, the infinite contracts to make room for the world: what does Korhogo take from it?
 
