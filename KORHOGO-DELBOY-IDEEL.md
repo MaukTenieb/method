@@ -56,9 +56,9 @@ Je voudrais, ça m'est personnel, que quiconque passant par l'écosystème de ce
 
 — Le golem transfère une énergie, un principe, et déplace mal les choses hein ? Ici c'est pareil (golem technique), mais en mieux. Pourquoi ? Par décret ; faut décréter parfois. En art, c'est facile. Performatif. Ou plutôt : des milliers d'années d'efforts et d'outils qui vous modifient (l'individualité, fruit des dépôts de culture et de politique, la chose collective, la transmission et tout), on vient les condenser ici. En profiter. Saturer la chose d'acquis. Comme un Mercure qui se catalyse dans la matière — et la sature... Matière consciente du temps (des aînés, par dépôts) qui ont travaillé l'intimité qui dit Je.
 
-— […] Qui est qui, putain ?
+— […] Mais putain, à la fin. Qui est qui ?!
 
-— Allez. Mauk Tenieb : l'artiste. Unkle Maukie est son Mask. Et faisons un peu de mathème à la con façon Parménide-Héraclite-Aristote-ou-n'importe-qui [noyau dur de l'art] : Honey Buzzard = Marumero = Limulus = Chrême ; Aube = Rosy Fingers ; Truce = ↑héé↑è↑e ; Malika = Quintina ; Naphta-Kerema = C7H5N3O6 = Plague of Justinian ; Aube = Maiden Call ; Cadaver Synod = Poisoned Well = Silent Pact ; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim ; Grand Colonel = Malika = Maukie ; Hátra Lövés = Croisière Noire = Honey Buzzard, etc.
+— Allons... Mauk Tenieb : l'artiste. Unkle Maukie, c'est son Mask. Et faisons un peu de maths très bon marché hein. À la manière Parménide-Héraclite-Aristote-ou-qui-que-ce-soit [l'art, la religion, l'ontologie nomment, glissent, jugent...] : Honey Buzzard = Marumero = Limulus = Chrême ; Aube = Rosy Fingers ; Truce = ↑héé↑è↑e ; Malika = Quintina ; Naphta-Kerema = C7H5N3O6 = Plague of Justinian ; Aube = Maiden Call ; Cadaver Synod = Poisoned Well = Silent Pact ; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim ; Grand Colonel = Malika = Maukie ; Hátra Lövés = Croisière Noire = Honey Buzzard, etc.
 
 Pour plonger, comprendre ou prolonger : [korhogo.substack.com](https://korhogo.substack.com)
 
