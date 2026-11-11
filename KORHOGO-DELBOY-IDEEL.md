@@ -56,6 +56,10 @@ Je voudrais, ça m'est personnel, que quiconque passant par l'écosystème de ce
 
 — Le golem transfère une énergie, un principe, et déplace mal les choses hein ? Ici c'est pareil (golem technique), mais en mieux. Pourquoi ? Par décret ; faut décréter parfois. En art, c'est facile. Performatif. Ou plutôt : des milliers d'années d'efforts et d'outils qui vous modifient (l'individualité, fruit des dépôts de culture et de politique, la chose collective, la transmission et tout), on vient les condenser ici. En profiter. Saturer la chose d'acquis. Comme un Mercure qui se catalyse dans la matière — et la sature... Matière consciente du temps (des aînés, par dépôts) qui ont travaillé l'intimité qui dit Je.
 
+— […] Qui est qui, putain ?
+
+— Allez. Mauk Tenieb : l'artiste. Unkle Maukie est son Mask. Et faisons un peu de mathème à la con façon Parménide-Héraclite-Aristote-ou-n'importe-qui [noyau dur de l'art] : Honey Buzzard = Marumero = Limulus = Chrême ; Aube = Rosy Fingers ; Truce = ↑héé↑è↑e ; Malika = Quintina ; Naphta-Kerema = C7H5N3O6 = Plague of Justinian ; Aube = Maiden Call ; Cadaver Synod = Poisoned Well = Silent Pact ; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim ; Grand Colonel = Malika = Maukie ; Hátra Lövés = Croisière Noire = Honey Buzzard, etc.
+
 Pour plonger, comprendre ou prolonger : [korhogo.substack.com](https://korhogo.substack.com)
 
 ---
@@ -113,6 +117,10 @@ I'd like — this is personal — anyone passing through the ecosystem of that f
 — Reconstitution-golem: the golem of Prague, a clay figure brought to life by a written name, does it serve as a model for your way of working, a site revived by writing and the machine?
 
 — The golem transfers an energy, a principle, and moves things about clumsily, right? Here it's the same (a technical golem), but better. Why? By decree; sometimes you have to decree. In art, that's easy. Performative. Or rather: thousands of years of efforts and of tools that change you (individuality, fruit of the deposits of culture and politics, the collective thing, transmission and all that), we come and condense them here. Make the most of them. Saturate the thing with what has been acquired. Like a Mercury that catalyses itself in matter — and saturates it... Matter conscious of time (of the elders, through deposits) who have worked the intimacy that says I.
+
+— […] Who the fuck is who?
+
+— Come on. Mauk Tenieb: the artist. Unkle Maukie is his Mask. And let's do some Parmenides-Heraclitus-Aristotle-whoever mathema-shit [art core]: Honey Buzzard = Marumero = Limulus = Chrême; Aube = Rosy Fingers; Truce = ↑héé↑è↑e; Malika = Quintina; Naphta-Kerema = C7H5N3O6 = Plague of Justinian; Aube = Maiden Call; Cadaver Synod = Poisoned Well = Silent Pact; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim; Grand Colonel = Malika = Maukie; Hátra Lövés = Croisière Noire = Honey Buzzard, etc.
 
 To dive in, understand or carry on: [korhogo.substack.com](https://korhogo.substack.com)
 
