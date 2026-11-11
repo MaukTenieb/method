@@ -26,7 +26,7 @@ Tant que la reconstitution-golem du site mythique d'Hervé Delboy [un classique 
 
 — Situations : au sens des situationnistes, des situations qu'on construit ? Ou celles des jeux, comme la chambre de motel d'Insert Koin ?
 
-— Les situationnistes sont insupportables. Classes intermédiaires qui, par snobisme, copient la grande bourgeoisie. Et se vissent un béret ouvrier sur la tête. Gauchisme-левизна. Plutôt que matérialisme dialectique. Les situationnistes n'ont que foutre de la plèbe, des producteurs, de l'ordinaire humain pourtant si puissant. En paix, en plaisir, en possibilités matérielles concrètes. Et tout sauf humbles, hein : produire est le cœur civique, technique et artistique de la condition humaine la plus réelle. En déterminations, en devenirs « sur pattes ». Tous les courants qui ont renié la plèbe et souscrit aux chimères impérialistes, par exemple anglo-saxonnes, ont donné ce type de conneries. Fascisantes-naturalisantes-retouristes-bon-sens-istes-assignantes-réductionnistes — celles qui arracheraient volontiers, au nom du Marché, de l'éternité, de la régulation et de l'immuabilité cosmiques, de l'essence ou du destin, l'Histoire à l'animal humain — par le retour au nombril, au cosmos, à la Réaction, au désarmement concret ou à l'immobilité. À la monade individuelle coupée des dépôts. Donc inoffensive. Mais quand même fascinée par les marchés, par les choses éternelles, statiques, anti-humaines. Anti-dialectiques. Ou au gauchisme-левизна : jusqu'aux narcissiques, hostiles ou aveugles par principe au progrès, à l'universel, au concret et à la production, et à la consommation légitime, et au... social ; au normal : je veux dire les dévots pathétiques du « sociétal » [le beau, l'incantatoire] — classes intermédiaires encore (au sens de Michel Clouscard) — et intersectionnels de l'enfer. Immatures. Mauvais lecteurs. Autosatisfaits. Ivres du regard (approbateur) d'autrui et d'abstractions. Bourgeois en tout.
+— Les situationnistes sont insupportables. Classes intermédiaires qui, par snobisme, copient la grande bourgeoisie. Et se vissent un béret ouvrier sur la tête. Gauchisme. Plutôt que matérialisme dialectique. Tous les courants qui ont renié la plèbe et souscrit aux chimères impérialistes, par exemple anglo-saxonnes, ont donné ce type de conneries. Fascisantes par le retour au nombril, au cosmos, à la Réaction, au désarmement concret ou à l'immobilité. À la monade individuelle coupée des dépôts. Donc inoffensive. Mais quand même fascinée par les marchés, par les choses éternelles, statiques, anti-humaines. Anti-dialectiques. Ou au gauchisme : jusqu'aux narcissiques, hostiles au progrès, à l'universel, au concret, au social, que sont les sociétaux pathétiques — classes intermédiaires encore (au sens de Michel Clouscard) — et intersectionnels de l'enfer. Immatures. Mauvais lecteurs. Autosatisfaits. Ivres du regard (approbateur) d'autrui et d'abstractions. Bourgeois en tout.
 
 — Alors, les situations qui sortent du creuset de Korhogo : lesquelles ?
 
@@ -62,9 +62,9 @@ Tant que la reconstitution-golem du site mythique d'Hervé Delboy [un classique 
 
 — […] Attends. Mais putain, à la fin. Qui est qui ?!
 
-— Allons... Mauk Tenieb : l'artiste. Unkle Maukie, c'est son Mask. Et faisons un peu de maths très bon marché hein. À la manière Parménide-Héraclite-Aristote-ou-qui-que-ce-soit [l'art, la religion, l'ontologie nomment, glissent, jugent...] : Honey Buzzard = Marumero = Limulus = Chrême ; Aube = Rosy Fingers ; Truce = ↑héé↑è↑e ; Malika = Quintina ; Naphta-Kerema = C7H5N3O6 = Plague of Justinian ; Aube = Maiden Call ; Cadaver Synod = Poisoned Well = Silent Pact ; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim ; Grand Colonel = Malika = Maukie ; Hátra Lövés = Croisière Noire = Honey Buzzard, et ainsi de suite.
+— Allons... Mauk Tenieb : l'artiste. Unkle Maukie, c'est son Mask. Et faisons un peu de maths très bon marché hein. À la manière Parménide-Héraclite-Aristote-ou-qui-que-ce-soit [l'art, la religion, l'ontologie nomment, glissent, jugent...] : Honey Buzzard = Marumero = Limulus = Chrême ; Aube = Rosy Fingers ; Truce = ↑héé↑è↑e ; Malika = Quintina ; Naphta-Kerema = C7H5N3O6 = Plague of Justinian ; Aube = Maiden Call ; Cadaver Synod = Poisoned Well = Silent Pact ; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim ; Grand Colonel = Malika = Maukie ; Hátra Lövés = Croisière Noire = Honey Buzzard, et tout ça.
 
-Pour plonger : [korhogo.substack.com](https://korhogo.substack.com) · [ORCID](https://orcid.org/0009-0007-9096-8267)
+Pour plonger : [korhogo.substack.com](https://korhogo.substack.com) · [https://orcid.org/0009-0007-9096-8267](https://orcid.org/0009-0007-9096-8267)
 
 ---
 
@@ -131,7 +131,7 @@ As long as the golem-reconstruction of Hervé Delboy's mythical site [a classic 
 — Come on. Mauk Tenieb: the artist. Unkle Maukie is his Mask. And let's do some Parmenides-Heraclitus-Aristotle-whoever mathema-shit [art core]: Honey Buzzard = Marumero = Limulus = Chrême; Aube = Rosy Fingers; Truce = ↑héé↑è↑e; Malika = Quintina; Naphta-Kerema = C7H5N3O6 = Plague of Justinian; Aube = Maiden Call; Cadaver Synod = Poisoned Well = Silent Pact; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim; Grand Colonel = Malika = Maukie; Hátra Lövés = Croisière Noire = Honey Buzzard, and so forth.
 
 
-To dive in: [korhogo.substack.com](https://korhogo.substack.com) · [ORCID](https://orcid.org/0009-0007-9096-8267)
+To dive in: [korhogo.substack.com](https://korhogo.substack.com) · [https://orcid.org/0009-0007-9096-8267](https://orcid.org/0009-0007-9096-8267)
 
 ---
 
