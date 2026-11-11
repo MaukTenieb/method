@@ -2,11 +2,15 @@
 
 3 brumaire 235
 
-Je voudrais, ça m'est personnel, que quiconque passant par l'écosystème de ce métabolisme fictionnel, technique, esthétique et dramatique qu'est Korhogo, se figure que — tant que la reconstitution-golem de ce site mythique vit en nos murs, par hébergement irradiant, le temps de retrouver son génial propriétaire — le bain bouillonnant donc (à l'époque, indifférencié), qui concerne les penseurs et les faiseurs allant de l'Égypte ptolémaïque (peut-être avant pour la Chine et l'Inde) aux abords du siècle moderne par chez nous, que cette effervescence patrimoniale et cette érudition, qu'Hervé Delboy condense pour quiconque a un accès internet depuis quelques décennies, que cette alchimie constitue un modèle d'Idéel d'Evald Ilyenkov auquel l'imaginaire, la prose, l'audace, la virtuosité, la beauté, la folie, la sagesse et l'épaisseur des concepts qu'on taille et qui nous taillent autant que des représentations qui nous débordent, y compris au laboratoire, voilà en clair un monde auto-croissant tel que Korhogo se doit d'en tirer des références. Continues. Par matérialisme dialectique. Par science-fiction. Par métabolisme esthétique, technique, etc. Par histoire et progrès. C'est-à-dire levain... Delboy nous sert de pile et de relai — le temps que...
+Ah.
 
-— Le site de Delboy, recopié et rendu public, est-il un dépôt d'Idéel au sens d'Ilyenkov, de l'activité passée déposée dans des pages, que Korhogo réactive en la travaillant ?
+Je voudrais, ça m'est personnel, que quiconque passant par l'écosystème de ce métabolisme fictionnel, technique, esthétique et dramatique qu'est Korhogo, se figure ceci :
 
-— Oui et non. C'est une pile énergétique et une inspiration. Un limon vivant. Pour les gens qui se souviennent de cette perle de concentration de concepts et de travail érudit. Pour l'histoire humaine aussi : les dépôts actifs de l'Antiquité tardive à la veille de la période moderne (scientifique) et même un peu au-delà, si on inclut Isaac Newton, Marcellin Berthelot, peut-être les Curie, puis des artistes, intellectuels ou passionnés contemporains. Le CNRS s'y intéresse aussi : Didier Kahn, *Le Fixe et le Volatil. Chimie et alchimie, de Paracelse à Lavoisier* (CNRS Éditions, 2016).
+Tant que la reconstitution-golem du site mythique d'Hervé Delboy [un classique de l'hermétisme, déconnecté depuis des lustres], tant qu'elle s'installe en nos murs, par hébergement irradiant hm ? le temps de retrouver son génial propriétaire — le bain bouillonnant donc (à l'époque, indifférencié), qui concerne les penseurs et les faiseurs allant de l'Égypte ptolémaïque (peut-être avant pour la Chine et l'Inde) aux abords du siècle moderne par chez nous, que cette effervescence patrimoniale et cette érudition, qu'Hervé Delboy condense pour quiconque a un accès internet depuis une paire de décennies — cette alchimie constitue un modèle d'Idéel d'Evald Ilyenkov auquel l'imaginaire, la prose, l'audace, la virtuosité, la beauté, la folie, la sagesse et l'épaisseur des concepts qu'on taille et qui nous taillent autant que des représentations qui nous débordent, y compris au laboratoire, voilà en clair un monde auto-croissant tel que Korhogo se doit d'en tirer des références. Continues. Par matérialisme dialectique. Par science-fiction. Par métabolisme esthétique, technique, etc. Par histoire et progrès. C'est-à-dire levain... Delboy nous sert de pile et de relai — le temps que...
+
+— Le site de Delboy, recopié et rendu public, est-il un dépôt d'Idéel au sens d'Evald Ilyenkov, de l'activité passée déposée dans des pages, que Korhogo réactive en la travaillant ?
+
+— Oui et non. C'est une pile énergétique et une inspiration. Un limon vivant. Pour les gens qui se souviennent de cette perle de concentration de concepts et de travail érudit. Pour l'histoire humaine aussi : les dépôts actifs de l'Antiquité tardive à la veille de la période moderne (scientifique) et même un peu au-delà, si on inclut Isaac Newton, Marcellin Berthelot, peut-être les Curie, puis des artistes, intellectuels ou passionnés contemporains. Le versant sciences historiques du Centre national de la recherche scientifique s'y intéresse aussi : Didier Kahn, *Le Fixe et le Volatil. Chimie et alchimie, de Paracelse à Lavoisier* (CNRS Éditions, 2016).
 
 — Les concepts qu'on taille et qui nous taillent : dans Korhogo, qui taille qui ?
 
@@ -22,7 +26,7 @@ Je voudrais, ça m'est personnel, que quiconque passant par l'écosystème de ce
 
 — Situations : au sens des situationnistes, des situations qu'on construit ? Ou celles des jeux, comme la chambre de motel d'Insert Koin ?
 
-— Les situationnistes sont insupportables. Classes intermédiaires qui, par snobisme, copient la grande bourgeoisie. Et se vissent un béret ouvrier sur la tête. Gauchisme. Plutôt que matérialisme dialectique. Les situationnistes n'ont que foutre de la plèbe, des producteurs, de l'ordinaire humain pourtant si puissant. En paix, en plaisir, en possibilités matérielles concrètes. Et tout sauf humbles, hein : produire est le cœur civique, technique et artistique de la condition humaine la plus réelle. En déterminations, en devenirs « sur pattes ». Tous les courants qui ont renié la plèbe et souscrit aux chimères impérialistes, par exemple anglo-saxonnes, ont donné ce type de conneries. Fascisantes par le retour au nombril, au cosmos, à la Réaction, au désarmement concret ou à l'immobilité. À la monade individuelle coupée des dépôts. Donc inoffensive. Mais quand même fascinée par les marchés, par les choses éternelles, statiques, anti-humaines. Anti-dialectiques. Ou au gauchisme : jusqu'aux narcissiques, hostiles au progrès, à l'universel, au concret, au social, que sont les sociétaux pathétiques — classes intermédiaires encore (au sens de Michel Clouscard) — et intersectionnels de l'enfer. Immatures. Mauvais lecteurs. Autosatisfaits. Ivres du regard (approbateur) d'autrui et d'abstractions. Bourgeois en tout.
+— Les situationnistes sont insupportables. Classes intermédiaires qui, par snobisme, copient la grande bourgeoisie. Et se vissent un béret ouvrier sur la tête. Gauchisme-левизна. Plutôt que matérialisme dialectique. Les situationnistes n'ont que foutre de la plèbe, des producteurs, de l'ordinaire humain pourtant si puissant. En paix, en plaisir, en possibilités matérielles concrètes. Et tout sauf humbles, hein : produire est le cœur civique, technique et artistique de la condition humaine la plus réelle. En déterminations, en devenirs « sur pattes ». Tous les courants qui ont renié la plèbe et souscrit aux chimères impérialistes, par exemple anglo-saxonnes, ont donné ce type de conneries. Fascisantes-naturalisantes-retouristes-bon-sens-istes-assignantes-réductionnistes — celles qui arracheraient volontiers, au nom du Marché, de l'éternité, de la régulation et de l'immuabilité cosmiques, de l'essence ou du destin, l'Histoire à l'animal humain — par le retour au nombril, au cosmos, à la Réaction, au désarmement concret ou à l'immobilité. À la monade individuelle coupée des dépôts. Donc inoffensive. Mais quand même fascinée par les marchés, par les choses éternelles, statiques, anti-humaines. Anti-dialectiques. Ou au gauchisme-левизна : jusqu'aux narcissiques, hostiles ou aveugles par principe au progrès, à l'universel, au concret et à la production, et à la consommation légitime, et au... social ; au normal : je veux dire les dévots pathétiques du « sociétal » [le beau, l'incantatoire] — classes intermédiaires encore (au sens de Michel Clouscard) — et intersectionnels de l'enfer. Immatures. Mauvais lecteurs. Autosatisfaits. Ivres du regard (approbateur) d'autrui et d'abstractions. Bourgeois en tout.
 
 — Alors, les situations qui sortent du creuset de Korhogo : lesquelles ?
 
@@ -30,7 +34,7 @@ Je voudrais, ça m'est personnel, que quiconque passant par l'écosystème de ce
 
 — Tes labels contiennent déjà une formule chimique, C7H5N3O6, le trinitrotoluène, et un concept de la kabbale, le Tsimtsum. Est-ce le même geste que celui que tu attends de Delboy ?
 
-— J'attends rien de Delboy, qui est un érudit. Et qui a besoin de tout sauf de moi — heureusement. La chimie ? Ah, la formulation : son idée. La mise au point. Le composé explosif.
+— J'attends rien d'Hervé Delboy, qui est un érudit. Et qui a besoin de tout sauf de moi — heureusement. La chimie ? Ah, la formulation : son idée. La mise au point. Le composé explosif.
 
 — Et le Tsimtsum, ce retrait par lequel, dans la kabbale d'Isaac Louria, l'infini se contracte pour laisser place au monde : qu'en prend Korhogo ?
 
@@ -46,7 +50,7 @@ Je voudrais, ça m'est personnel, que quiconque passant par l'écosystème de ce
 
 — Un levain se garde d'une fournée à l'autre. Que prélèves-tu dans ce bain pour les fournées suivantes de Korhogo ?
 
-— Le feu, comme le disait Jean Cocteau dans sa célèbre interview sur ce qu'on devrait emporter si la maison brûle. Oui, c'est un cliché. Oui, par ailleurs, le feu c'est Héraclite : la dialectique. Naturelle si on veut. (Moi, je m'en tape un peu.) Humaine, surtout. Hominiser la matière c'est capter le temps, le changement, et le systématiser localement, à grands efforts de corps et de connaissances. Pourquoi ? Pour que la matière (pour la nature) cesse de nous tuer et de nous enchaîner — rendant les forts et les bien-nés, au sens également financier, plus dominants encore. Plus politiques — il est là, le cœur. Et Nietzsche (ici comme ailleurs) a fort mal compris ce qui se joue dans les âges. C'est pas la santé ou la vigueur, ou la mentalité [quoi que ça veuille dire], c'est la Praxis. La sienne, la mienne, celle du voisin, découlant des progrès d'avant. Donc des efforts localisés.
+— Le feu, comme le disait Jean Cocteau dans sa célèbre interview des années 1950 sur ce qu'on devrait emporter si la maison brûle. Oui, c'est un cliché. Oui, par ailleurs, le feu c'est Héraclite : la dialectique. Naturelle si on veut. (Moi, je m'en tape un peu.) Humaine, surtout. Hominiser la matière c'est capter le temps, le changement, et le systématiser localement, à grands efforts de corps et de connaissances. Pourquoi ? Pour que la matière (pour la nature) cesse de nous tuer et de nous enchaîner — rendant les forts et les bien-nés, au sens également financier, plus dominants encore. Plus politiques — il est là, le cœur. Et Nietzsche (ici comme ailleurs) a fort mal compris ce qui se joue dans les âges. C'est pas la santé ou la vigueur, ou la mentalité [quoi que ça veuille dire], c'est la Praxis. La sienne, la mienne, celle du voisin, découlant des progrès d'avant. Donc des efforts localisés.
 
 — Delboy nous sert de pile et de relai, le temps que… : termine la phrase.
 
@@ -56,19 +60,23 @@ Je voudrais, ça m'est personnel, que quiconque passant par l'écosystème de ce
 
 — Le golem transfère une énergie, un principe, et déplace mal les choses hein ? Ici c'est pareil (golem technique), mais en mieux. Pourquoi ? Par décret ; faut décréter parfois. En art, c'est facile. Performatif. Ou plutôt : des milliers d'années d'efforts et d'outils qui vous modifient (l'individualité, fruit des dépôts de culture et de politique, la chose collective, la transmission et tout), on vient les condenser ici. En profiter. Saturer la chose d'acquis. Comme un Mercure qui se catalyse dans la matière — et la sature... Matière consciente du temps (des aînés, par dépôts) qui ont travaillé l'intimité qui dit Je.
 
-— […] Mais putain, à la fin. Qui est qui ?!
+— […] Attends. Mais putain, à la fin. Qui est qui ?!
 
-— Allons... Mauk Tenieb : l'artiste. Unkle Maukie, c'est son Mask. Et faisons un peu de maths très bon marché hein. À la manière Parménide-Héraclite-Aristote-ou-qui-que-ce-soit [l'art, la religion, l'ontologie nomment, glissent, jugent...] : Honey Buzzard = Marumero = Limulus = Chrême ; Aube = Rosy Fingers ; Truce = ↑héé↑è↑e ; Malika = Quintina ; Naphta-Kerema = C7H5N3O6 = Plague of Justinian ; Aube = Maiden Call ; Cadaver Synod = Poisoned Well = Silent Pact ; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim ; Grand Colonel = Malika = Maukie ; Hátra Lövés = Croisière Noire = Honey Buzzard, etc.
+— Allons... Mauk Tenieb : l'artiste. Unkle Maukie, c'est son Mask. Et faisons un peu de maths très bon marché hein. À la manière Parménide-Héraclite-Aristote-ou-qui-que-ce-soit [l'art, la religion, l'ontologie nomment, glissent, jugent...] : Honey Buzzard = Marumero = Limulus = Chrême ; Aube = Rosy Fingers ; Truce = ↑héé↑è↑e ; Malika = Quintina ; Naphta-Kerema = C7H5N3O6 = Plague of Justinian ; Aube = Maiden Call ; Cadaver Synod = Poisoned Well = Silent Pact ; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim ; Grand Colonel = Malika = Maukie ; Hátra Lövés = Croisière Noire = Honey Buzzard, et ainsi de suite.
 
-Pour plonger, comprendre ou prolonger : [korhogo.substack.com](https://korhogo.substack.com)
+Pour plonger : [korhogo.substack.com](https://korhogo.substack.com) · [ORCID](https://orcid.org/0009-0007-9096-8267)
 
 ---
 
-I'd like — this is personal — anyone passing through the ecosystem of that fictional, technical, aesthetic and dramatic metabolism called Korhogo to picture this: as long as the golem-reconstruction of this mythical site lives within our walls, in radiant hosting, until we find its brilliant owner — the seething bath (undifferentiated, back then) of thinkers and makers from Ptolemaic Egypt (earlier perhaps, for China and India) to the threshold of the modern age on our side of the world, that ferment of heritage and that erudition Hervé Delboy has condensed for anyone with an internet connection for a few decades now — that this alchemy stands as a model of Evald Ilyenkov's Ideal, to which imagination, prose, nerve, virtuosity, beauty, madness, wisdom and the thickness of concepts we carve and that carve us, as much as of representations that overflow us, in the laboratory too — there, plainly, a self-growing world, such that Korhogo owes it to itself to draw references from it. Continuous ones. Through dialectical materialism. Through science fiction. Through aesthetic, technical metabolism, and so on. Through history and progress. That is to say, leaven... Delboy serves us as battery and relay — until...
+Ah.
 
-— Is Delboy's site, copied and made public again, a deposit of the Ideal in Ilyenkov's sense, past activity laid down in pages, which Korhogo reawakens by working it?
+I'd like — this is personal — anyone passing through the ecosystem of that fictional, technical, aesthetic and dramatic metabolism called Korhogo to picture this:
 
-— Yes and no. It is a battery of energy and an inspiration. A living silt. For the people who remember that pearl, that concentration of concepts and erudite work. For human history too: the active deposits from late Antiquity to the eve of the modern (scientific) period, and even a little beyond, if you include Isaac Newton, Marcellin Berthelot, perhaps the Curies, then contemporary artists, intellectuals and enthusiasts. The CNRS takes an interest too: Didier Kahn, *Le Fixe et le Volatil. Chimie et alchimie, de Paracelse à Lavoisier* (CNRS Éditions, 2016).
+As long as the golem-reconstruction of Hervé Delboy's mythical site [a classic of hermetism, disconnected ages ago], as long as it settles within our walls, in radiant hosting mh? until we find his brilliant owner — the seething bath (undifferentiated, back then) of thinkers and makers from Ptolemaic Egypt (earlier perhaps, for China and India) to the threshold of the modern age on our side of the world, that ferment of heritage and that erudition Hervé Delboy has condensed for anyone with an internet connection for a couple of decades now — this alchemy stands as a model of Evald Ilyenkov's Ideal, to which imagination, prose, nerve, virtuosity, beauty, madness, wisdom and the thickness of concepts we carve and that carve us, as much as of representations that overflow us, in the laboratory too — there, plainly, a self-growing world, such that Korhogo owes it to itself to draw references from it. Continuous ones. Through dialectical materialism. Through science fiction. Through aesthetic, technical metabolism, and so on. Through history and progress. That is to say, leaven... Delboy serves us as battery and relay — until...
+
+— Is Delboy's site, copied and made public again, a deposit of the Ideal in Evald Ilyenkov's sense, past activity laid down in pages, which Korhogo reawakens by working it?
+
+— Yes and no. It is a battery of energy and an inspiration. A living silt. For the people who remember that pearl, that concentration of concepts and erudite work. For human history too: the active deposits from late Antiquity to the eve of the modern (scientific) period, and even a little beyond, if you include Isaac Newton, Marcellin Berthelot, perhaps the Curies, then contemporary artists, intellectuals and enthusiasts. The historic sciences side of Centre national de la recherche scientifique takes an interest too: Didier Kahn, *Le Fixe et le Volatil. Chimie et alchimie, de Paracelse à Lavoisier* (CNRS Éditions, 2016).
 
 — The concepts we carve and that carve us: in Korhogo, who carves whom?
 
@@ -92,7 +100,7 @@ I'd like — this is personal — anyone passing through the ecosystem of that f
 
 — Your labels already hold a chemical formula, C7H5N3O6, trinitrotoluene, and a concept from the Kabbalah, the Tsimtsum. Is it the same gesture as the one you expect from Delboy?
 
-— I expect nothing from Delboy, who is a very literate man. And who needs everything except me — fortunately. Chemistry? Ah, the formulation: its idea. The fine-tuning. The explosive compound.
+— I expect nothing from Hervé Delboy, who is a very literate man. And who needs everything except me — fortunately. Chemistry? Ah, the formulation: its idea. The fine-tuning. The explosive compound.
 
 — And the Tsimtsum, the withdrawal by which, in Isaac Luria's Kabbalah, the infinite contracts to make room for the world: what does Korhogo take from it?
 
@@ -108,7 +116,7 @@ I'd like — this is personal — anyone passing through the ecosystem of that f
 
 — Leaven is kept from one batch to the next. What do you take from this bath for Korhogo's next batches?
 
-— Fire, as Jean Cocteau said in his famous interview, about what one should take if the house is burning. Yes, it's a cliché. Yes, besides, fire is Heraclitus: dialectics. Natural, if you like. (Me, I don't much care.) Human, above all. Hominising matter means capturing time, change, and systematising it locally, at great effort of bodies and knowledge. Why? So that matter (nature) stops killing us and chaining us — which makes the strong and the well-born, in the financial sense too, more dominant still. More political — there's the heart of it. And Nietzsche (here as elsewhere) badly misunderstood what is at stake across the ages. It isn't health or vigour, or mindset [whatever that means], it's Praxis. His, mine, the neighbour's, flowing from earlier progress. So, from localised efforts.
+— Fire, as Jean Cocteau said in his famous 1950s interview, about what one should take if the house is burning. Yes, it's a cliché. Yes, besides, fire is Heraclitus: dialectics. Natural, if you like. (Me, I don't much care.) Human, above all. Hominising matter means capturing time, change, and systematising it locally, at great effort of bodies and knowledge. Why? So that matter (nature) stops killing us and chaining us — which makes the strong and the well-born, in the financial sense too, more dominant still. More political — there's the heart of it. And Nietzsche (here as elsewhere) badly misunderstood what is at stake across the ages. It isn't health or vigour, or mindset [whatever that means], it's Praxis. His, mine, the neighbour's, flowing from earlier progress. So, from localised efforts.
 
 — Delboy serves us as battery and relay, until…: finish the sentence.
 
@@ -118,11 +126,12 @@ I'd like — this is personal — anyone passing through the ecosystem of that f
 
 — The golem transfers an energy, a principle, and moves things about clumsily, right? Here it's the same (a technical golem), but better. Why? By decree; sometimes you have to decree. In art, that's easy. Performative. Or rather: thousands of years of efforts and of tools that change you (individuality, fruit of the deposits of culture and politics, the collective thing, transmission and all that), we come and condense them here. Make the most of them. Saturate the thing with what has been acquired. Like a Mercury that catalyses itself in matter — and saturates it... Matter conscious of time (of the elders, through deposits) who have worked the intimacy that says I.
 
-— […] Who the fuck is who?
+— […] Wait. Who the fuck is who?
 
-— Come on. Mauk Tenieb: the artist. Unkle Maukie is his Mask. And let's do some Parmenides-Heraclitus-Aristotle-whoever mathema-shit [art core]: Honey Buzzard = Marumero = Limulus = Chrême; Aube = Rosy Fingers; Truce = ↑héé↑è↑e; Malika = Quintina; Naphta-Kerema = C7H5N3O6 = Plague of Justinian; Aube = Maiden Call; Cadaver Synod = Poisoned Well = Silent Pact; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim; Grand Colonel = Malika = Maukie; Hátra Lövés = Croisière Noire = Honey Buzzard, etc.
+— Come on. Mauk Tenieb: the artist. Unkle Maukie is his Mask. And let's do some Parmenides-Heraclitus-Aristotle-whoever mathema-shit [art core]: Honey Buzzard = Marumero = Limulus = Chrême; Aube = Rosy Fingers; Truce = ↑héé↑è↑e; Malika = Quintina; Naphta-Kerema = C7H5N3O6 = Plague of Justinian; Aube = Maiden Call; Cadaver Synod = Poisoned Well = Silent Pact; Maukie = Silent Pact = Croisière Noire = Ts'ui Pên = dogXim; Grand Colonel = Malika = Maukie; Hátra Lövés = Croisière Noire = Honey Buzzard, and so forth.
 
-To dive in, understand or carry on: [korhogo.substack.com](https://korhogo.substack.com)
+
+To dive in: [korhogo.substack.com](https://korhogo.substack.com) · [ORCID](https://orcid.org/0009-0007-9096-8267)
 
 ---
 
