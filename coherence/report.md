@@ -1,4 +1,4 @@
-# Coherence — 2026-11-09 16:39 UTC
+# Coherence — 2026-11-16 16:07 UTC
 
 Public repositories of MaukTenieb, checked one by one.
 
@@ -6,6 +6,62 @@ Public repositories of MaukTenieb, checked one by one.
 
 Prose to reread:
 - README.md : 2 passages à relire
+- .claude/skills/impeccable/SKILL.md : 50 passages à relire
+- .claude/skills/impeccable/reference/adapt.native.md : 19 passages à relire
+- .claude/skills/impeccable/reference/quieter.md : 53 passages à relire
+- .claude/skills/impeccable/reference/document.md : 122 passages à relire
+- .claude/skills/impeccable/reference/onboard.md : 46 passages à relire
+- .claude/skills/impeccable/reference/hooks.md : 80 passages à relire
+- .claude/skills/impeccable/reference/init.md : 81 passages à relire
+- .claude/skills/impeccable/reference/mode-read.md : 22 passages à relire
+- .claude/skills/impeccable/reference/delight.md : 20 passages à relire
+- .claude/skills/impeccable/reference/adapt.md : 60 passages à relire
+- .claude/skills/impeccable/reference/doctor.md : 41 passages à relire
+- .claude/skills/impeccable/reference/audit.native.md : 67 passages à relire
+- .claude/skills/impeccable/reference/live-setup.md : 37 passages à relire
+- .claude/skills/impeccable/reference/colorize.md : 31 passages à relire
+- .claude/skills/impeccable/reference/shape.md : 23 passages à relire
+- .claude/skills/impeccable/reference/mode-operate.md : 20 passages à relire
+- .claude/skills/impeccable/reference/craft.md : 5 passages à relire
+- .claude/skills/impeccable/reference/bolder.md : 26 passages à relire
+- .claude/skills/impeccable/reference/typeset.md : 32 passages à relire
+- .claude/skills/impeccable/reference/layout.md : 23 passages à relire
+- .claude/skills/impeccable/reference/component-review.md : 41 passages à relire
+- .claude/skills/impeccable/reference/optimize.md : 24 passages à relire
+- .claude/skills/impeccable/reference/harden.md : 35 passages à relire
+- .claude/skills/impeccable/reference/region-map.md : 14 passages à relire
+- .claude/skills/impeccable/reference/live.md : 147 passages à relire
+- .claude/skills/impeccable/reference/mode-persuade.md : 22 passages à relire
+- .claude/skills/impeccable/reference/generate.md : 80 passages à relire
+- .claude/skills/impeccable/reference/distill.md : 75 passages à relire
+- .claude/skills/impeccable/reference/craft-floor.md : 34 passages à relire
+- .claude/skills/impeccable/reference/android.md : 16 passages à relire
+- .claude/skills/impeccable/reference/critique.md : 224 passages à relire
+- .claude/skills/impeccable/reference/new-work.md : 371 passages à relire
+- .claude/skills/impeccable/reference/ios.md : 21 passages à relire
+- .claude/skills/impeccable/reference/operate.md : 27 passages à relire
+- .claude/skills/impeccable/reference/audit.md : 81 passages à relire
+- .claude/skills/impeccable/reference/routing.md : 18 passages à relire
+- .claude/skills/impeccable/reference/clarify.md : 29 passages à relire
+- .claude/skills/impeccable/reference/overdrive.md : 50 passages à relire
+- .claude/skills/impeccable/reference/animate.md : 28 passages à relire
+- .claude/skills/impeccable/reference/extract.md : 26 passages à relire
+- .claude/skills/impeccable/reference/visualize.md : 81 passages à relire
+- .claude/skills/impeccable/reference/polish.md : 43 passages à relire
+- .claude/skills/impeccable/reference/degraded/asset-producer.md : 48 passages à relire
+- .claude/skills/impeccable/reference/degraded/documenter.md : 24 passages à relire
+- .claude/skills/impeccable/reference/degraded/manual-edit-applier.md : 43 passages à relire
+- .claude/skills/impeccable/reference/degraded/finish-reviewer.md : 121 passages à relire
+- .claude/skills/ponytail-audit/SKILL.md : 39 passages à relire
+- .claude/skills/ponytail-review/SKILL.md : 36 passages à relire
+- .claude/skills/review-animations/STANDARDS.md : 61 passages à relire
+- .claude/skills/review-animations/SKILL.md : 69 passages à relire
+- .claude/skills/improve-animations/PLAN-TEMPLATE.md : 7 passages à relire
+- .claude/skills/improve-animations/AUDIT.md : 52 passages à relire
+- .claude/skills/improve-animations/SKILL.md : 58 passages à relire
+- .claude/skills/mobile-native/SKILL.md : 78 passages à relire
+- .claude/skills/break-ui/SKILL.md : 94 passages à relire
+- .claude/skills/break-ui/CATALOG.md : 27 passages à relire
 
 ## Korhoname
 
@@ -15,7 +71,7 @@ Prose to reread:
 ## MaukTenieb
 
 Prose to reread:
-- README.md : 9 passages à relire
+- README.md : 7 passages à relire
 
 ## Photofauna
 
@@ -47,28 +103,130 @@ Dead links:
 ## insertkoin
 
 Prose to reread:
-- BORNE.md : 21 passages à relire
-- README.md : 19 passages à relire
+- BORNE.md : 20 passages à relire
+- README.md : 21 passages à relire
 - DA.md : 9 passages à relire
 - PALMARES.md : 1 passages à relire
 - notes/src/detour.md : 1 passages à relire
 - notes/src/catchlight.md : 2 passages à relire
+- .claude/skills/impeccable/SKILL.md : 50 passages à relire
+- .claude/skills/impeccable/reference/adapt.native.md : 19 passages à relire
+- .claude/skills/impeccable/reference/quieter.md : 53 passages à relire
+- .claude/skills/impeccable/reference/document.md : 122 passages à relire
+- .claude/skills/impeccable/reference/onboard.md : 46 passages à relire
+- .claude/skills/impeccable/reference/hooks.md : 80 passages à relire
+- .claude/skills/impeccable/reference/init.md : 81 passages à relire
+- .claude/skills/impeccable/reference/mode-read.md : 22 passages à relire
+- .claude/skills/impeccable/reference/delight.md : 20 passages à relire
+- .claude/skills/impeccable/reference/adapt.md : 60 passages à relire
+- .claude/skills/impeccable/reference/doctor.md : 41 passages à relire
+- .claude/skills/impeccable/reference/audit.native.md : 67 passages à relire
+- .claude/skills/impeccable/reference/live-setup.md : 37 passages à relire
+- .claude/skills/impeccable/reference/colorize.md : 31 passages à relire
+- .claude/skills/impeccable/reference/shape.md : 23 passages à relire
+- .claude/skills/impeccable/reference/mode-operate.md : 20 passages à relire
+- .claude/skills/impeccable/reference/craft.md : 5 passages à relire
+- .claude/skills/impeccable/reference/bolder.md : 26 passages à relire
+- .claude/skills/impeccable/reference/typeset.md : 32 passages à relire
+- .claude/skills/impeccable/reference/layout.md : 23 passages à relire
+- .claude/skills/impeccable/reference/component-review.md : 41 passages à relire
+- .claude/skills/impeccable/reference/optimize.md : 24 passages à relire
+- .claude/skills/impeccable/reference/harden.md : 35 passages à relire
+- .claude/skills/impeccable/reference/region-map.md : 14 passages à relire
+- .claude/skills/impeccable/reference/live.md : 147 passages à relire
+- .claude/skills/impeccable/reference/mode-persuade.md : 22 passages à relire
+- .claude/skills/impeccable/reference/generate.md : 80 passages à relire
+- .claude/skills/impeccable/reference/distill.md : 75 passages à relire
+- .claude/skills/impeccable/reference/craft-floor.md : 34 passages à relire
+- .claude/skills/impeccable/reference/android.md : 16 passages à relire
+- .claude/skills/impeccable/reference/critique.md : 224 passages à relire
+- .claude/skills/impeccable/reference/new-work.md : 371 passages à relire
+- .claude/skills/impeccable/reference/ios.md : 21 passages à relire
+- .claude/skills/impeccable/reference/operate.md : 27 passages à relire
+- .claude/skills/impeccable/reference/audit.md : 81 passages à relire
+- .claude/skills/impeccable/reference/routing.md : 18 passages à relire
+- .claude/skills/impeccable/reference/clarify.md : 29 passages à relire
+- .claude/skills/impeccable/reference/overdrive.md : 50 passages à relire
+- .claude/skills/impeccable/reference/animate.md : 28 passages à relire
+- .claude/skills/impeccable/reference/extract.md : 26 passages à relire
+- .claude/skills/impeccable/reference/visualize.md : 81 passages à relire
+- .claude/skills/impeccable/reference/polish.md : 43 passages à relire
+- .claude/skills/impeccable/reference/degraded/asset-producer.md : 48 passages à relire
+- .claude/skills/impeccable/reference/degraded/documenter.md : 24 passages à relire
+- .claude/skills/impeccable/reference/degraded/manual-edit-applier.md : 43 passages à relire
+- .claude/skills/impeccable/reference/degraded/finish-reviewer.md : 121 passages à relire
+- .claude/skills/ponytail-audit/SKILL.md : 39 passages à relire
+- .claude/skills/ponytail-review/SKILL.md : 36 passages à relire
+- .claude/skills/review-animations/STANDARDS.md : 61 passages à relire
+- .claude/skills/review-animations/SKILL.md : 69 passages à relire
+- .claude/skills/improve-animations/PLAN-TEMPLATE.md : 7 passages à relire
+- .claude/skills/improve-animations/AUDIT.md : 52 passages à relire
+- .claude/skills/improve-animations/SKILL.md : 58 passages à relire
+- .claude/skills/mobile-native/SKILL.md : 78 passages à relire
+- .claude/skills/break-ui/SKILL.md : 94 passages à relire
+- .claude/skills/break-ui/CATALOG.md : 27 passages à relire
 - archive/README.md : 17 passages à relire
 - archive/PALMARES.md : 1 passages à relire
 - archive/notes/src/detour.md : 1 passages à relire
 - archive/notes/src/catchlight.md : 2 passages à relire
 - pf/SOURCES.md : 3 passages à relire
-- snd/SOURCES.md : 1 passages à relire
+- snd/SOURCES.md : 3 passages à relire
 
 ## katabase
 
 Prose to reread:
 - README.md : 4 passages à relire
+- .claude/skills/impeccable/SKILL.md : 50 passages à relire
+- .claude/skills/impeccable/reference/adapt.native.md : 19 passages à relire
+- .claude/skills/impeccable/reference/quieter.md : 53 passages à relire
+- .claude/skills/impeccable/reference/document.md : 122 passages à relire
+- .claude/skills/impeccable/reference/onboard.md : 46 passages à relire
+- .claude/skills/impeccable/reference/hooks.md : 80 passages à relire
+- .claude/skills/impeccable/reference/init.md : 81 passages à relire
+- .claude/skills/impeccable/reference/mode-read.md : 22 passages à relire
+- .claude/skills/impeccable/reference/delight.md : 20 passages à relire
+- .claude/skills/impeccable/reference/adapt.md : 60 passages à relire
+- .claude/skills/impeccable/reference/doctor.md : 41 passages à relire
+- .claude/skills/impeccable/reference/audit.native.md : 67 passages à relire
+- .claude/skills/impeccable/reference/live-setup.md : 37 passages à relire
+- .claude/skills/impeccable/reference/colorize.md : 31 passages à relire
+- .claude/skills/impeccable/reference/shape.md : 23 passages à relire
+- .claude/skills/impeccable/reference/mode-operate.md : 20 passages à relire
+- .claude/skills/impeccable/reference/craft.md : 5 passages à relire
+- .claude/skills/impeccable/reference/bolder.md : 26 passages à relire
+- .claude/skills/impeccable/reference/typeset.md : 32 passages à relire
+- .claude/skills/impeccable/reference/layout.md : 23 passages à relire
+- .claude/skills/impeccable/reference/component-review.md : 41 passages à relire
+- .claude/skills/impeccable/reference/optimize.md : 24 passages à relire
+- .claude/skills/impeccable/reference/harden.md : 35 passages à relire
+- .claude/skills/impeccable/reference/region-map.md : 14 passages à relire
+- .claude/skills/impeccable/reference/live.md : 147 passages à relire
+- .claude/skills/impeccable/reference/mode-persuade.md : 22 passages à relire
+- .claude/skills/impeccable/reference/generate.md : 80 passages à relire
+- .claude/skills/impeccable/reference/distill.md : 75 passages à relire
+- .claude/skills/impeccable/reference/craft-floor.md : 34 passages à relire
+- .claude/skills/impeccable/reference/android.md : 16 passages à relire
+- .claude/skills/impeccable/reference/critique.md : 224 passages à relire
+- .claude/skills/impeccable/reference/new-work.md : 371 passages à relire
+- .claude/skills/impeccable/reference/ios.md : 21 passages à relire
+- .claude/skills/impeccable/reference/operate.md : 27 passages à relire
+- .claude/skills/impeccable/reference/audit.md : 81 passages à relire
+- .claude/skills/impeccable/reference/routing.md : 18 passages à relire
+- .claude/skills/impeccable/reference/clarify.md : 29 passages à relire
+- .claude/skills/impeccable/reference/overdrive.md : 50 passages à relire
+- .claude/skills/impeccable/reference/animate.md : 28 passages à relire
+- .claude/skills/impeccable/reference/extract.md : 26 passages à relire
+- .claude/skills/impeccable/reference/visualize.md : 81 passages à relire
+- .claude/skills/impeccable/reference/polish.md : 43 passages à relire
+- .claude/skills/impeccable/reference/degraded/asset-producer.md : 48 passages à relire
+- .claude/skills/impeccable/reference/degraded/documenter.md : 24 passages à relire
+- .claude/skills/impeccable/reference/degraded/manual-edit-applier.md : 43 passages à relire
+- .claude/skills/impeccable/reference/degraded/finish-reviewer.md : 121 passages à relire
+- .claude/skills/ponytail-audit/SKILL.md : 39 passages à relire
+- .claude/skills/ponytail-review/SKILL.md : 36 passages à relire
 
 ## korhogo (archived)
 
-Rights:
-- LICENSE absent
 Prose to reread:
 - README.md : 11 passages à relire
 
@@ -84,11 +242,54 @@ Dead links:
 Prose to reread:
 - METHOD.md : 3 passages à relire
 - README.md : 3 passages à relire
-- borne/BORNE.md : 21 passages à relire
-- borne/DA.md : 9 passages à relire
-- borne/PALMARES.md : 1 passages à relire
-- borne/pf/SOURCES.md : 3 passages à relire
-- borne/snd/SOURCES.md : 1 passages à relire
+- .claude/skills/impeccable/SKILL.md : 50 passages à relire
+- .claude/skills/impeccable/reference/adapt.native.md : 19 passages à relire
+- .claude/skills/impeccable/reference/quieter.md : 53 passages à relire
+- .claude/skills/impeccable/reference/document.md : 122 passages à relire
+- .claude/skills/impeccable/reference/onboard.md : 46 passages à relire
+- .claude/skills/impeccable/reference/hooks.md : 80 passages à relire
+- .claude/skills/impeccable/reference/init.md : 81 passages à relire
+- .claude/skills/impeccable/reference/mode-read.md : 22 passages à relire
+- .claude/skills/impeccable/reference/delight.md : 20 passages à relire
+- .claude/skills/impeccable/reference/adapt.md : 60 passages à relire
+- .claude/skills/impeccable/reference/doctor.md : 41 passages à relire
+- .claude/skills/impeccable/reference/audit.native.md : 67 passages à relire
+- .claude/skills/impeccable/reference/live-setup.md : 37 passages à relire
+- .claude/skills/impeccable/reference/colorize.md : 31 passages à relire
+- .claude/skills/impeccable/reference/shape.md : 23 passages à relire
+- .claude/skills/impeccable/reference/mode-operate.md : 20 passages à relire
+- .claude/skills/impeccable/reference/craft.md : 5 passages à relire
+- .claude/skills/impeccable/reference/bolder.md : 26 passages à relire
+- .claude/skills/impeccable/reference/typeset.md : 32 passages à relire
+- .claude/skills/impeccable/reference/layout.md : 23 passages à relire
+- .claude/skills/impeccable/reference/component-review.md : 41 passages à relire
+- .claude/skills/impeccable/reference/optimize.md : 24 passages à relire
+- .claude/skills/impeccable/reference/harden.md : 35 passages à relire
+- .claude/skills/impeccable/reference/region-map.md : 14 passages à relire
+- .claude/skills/impeccable/reference/live.md : 147 passages à relire
+- .claude/skills/impeccable/reference/mode-persuade.md : 22 passages à relire
+- .claude/skills/impeccable/reference/generate.md : 80 passages à relire
+- .claude/skills/impeccable/reference/distill.md : 75 passages à relire
+- .claude/skills/impeccable/reference/craft-floor.md : 34 passages à relire
+- .claude/skills/impeccable/reference/android.md : 16 passages à relire
+- .claude/skills/impeccable/reference/critique.md : 224 passages à relire
+- .claude/skills/impeccable/reference/new-work.md : 371 passages à relire
+- .claude/skills/impeccable/reference/ios.md : 21 passages à relire
+- .claude/skills/impeccable/reference/operate.md : 27 passages à relire
+- .claude/skills/impeccable/reference/audit.md : 81 passages à relire
+- .claude/skills/impeccable/reference/routing.md : 18 passages à relire
+- .claude/skills/impeccable/reference/clarify.md : 29 passages à relire
+- .claude/skills/impeccable/reference/overdrive.md : 50 passages à relire
+- .claude/skills/impeccable/reference/animate.md : 28 passages à relire
+- .claude/skills/impeccable/reference/extract.md : 26 passages à relire
+- .claude/skills/impeccable/reference/visualize.md : 81 passages à relire
+- .claude/skills/impeccable/reference/polish.md : 43 passages à relire
+- .claude/skills/impeccable/reference/degraded/asset-producer.md : 48 passages à relire
+- .claude/skills/impeccable/reference/degraded/documenter.md : 24 passages à relire
+- .claude/skills/impeccable/reference/degraded/manual-edit-applier.md : 43 passages à relire
+- .claude/skills/impeccable/reference/degraded/finish-reviewer.md : 121 passages à relire
+- .claude/skills/ponytail-audit/SKILL.md : 39 passages à relire
+- .claude/skills/ponytail-review/SKILL.md : 36 passages à relire
 
 ## method
 
@@ -100,7 +301,7 @@ Names:
 - coherence/report.json : « Motel Puck » ×1 (ancien nom de Korong!)
 Prose to reread:
 - METHOD.md : 2 passages à relire
-- KORHOGO-DELBOY-IDEEL.md : 67 passages à relire
+- KORHOGO-DELBOY-IDEEL.md : 65 passages à relire
 - README.md : 9 passages à relire
 - KNOWLEDGE.md : 4 passages à relire
 - MAP.md : 2 passages à relire
